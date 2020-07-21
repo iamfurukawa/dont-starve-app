@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
-import { Route, Switch, Router } from 'react-router-dom';
-import { createHashHistory } from 'history'
+import { Route, Switch, BrowserRouter } from 'react-router-dom';
 
 import GraphNetwork from './components/graph';
 import Menu from './components/menu';
@@ -29,7 +28,7 @@ const App = () => {
 
   return (
     <div className={actualGrid}>
-      <Router history={createHashHistory({ basename: process.env.PUBLIC_URL })}>
+      <BrowserRouter basename="/dont-starve-app">
       <GridContext.Provider value={gridContextValues}>
           <Menu />
           <Search setData={setData}/>
@@ -48,7 +47,7 @@ const App = () => {
             </Route>
           </Switch>
         </GridContext.Provider>
-      </Router>
+      </BrowserRouter>
     </div>
   )
 }

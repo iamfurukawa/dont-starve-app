@@ -20,7 +20,7 @@ const Search = ({setData}) => {
     search()
   }
 
-  const search = () => {
+  const search = () => {  
     if(!hasText(input))
       return
 
@@ -30,12 +30,15 @@ const Search = ({setData}) => {
       filterExact: selectSelected
     })
 
+    if(!hasResults(results))
+      return
+
     results.nodes.forEach(node => {
-      node.svg = `${process.env.PUBLIC_URL}/${node.svg}`
+      node.svg = node.svg.split("/images").pop()
+      node.svg = `${process.env.PUBLIC_URL}/images/${node.svg}`
     })
 
     setData(results)
-    hasResults(results)
   }
 
   const hasText = input => {
@@ -68,7 +71,10 @@ const Search = ({setData}) => {
         progress: undefined,
         closeButton: false
       })
+      return false
     }
+
+    return true
   }
 
   return (
