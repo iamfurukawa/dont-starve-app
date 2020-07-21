@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08816e8ca93161c467099b974e476d08",
+    "revision": "ce6d047084004b918507b50718948f77",
     "url": "/dont-starve-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dont-starve-app/static/css/2.d34346ea.chunk.css"
   },
   {
-    "revision": "ec2e4f808845253294e6",
+    "revision": "90985455e78e5ccbbf5e",
     "url": "/dont-starve-app/static/css/main.b63a97bc.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dont-starve-app/static/js/2.4b5b54c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec2e4f808845253294e6",
-    "url": "/dont-starve-app/static/js/main.8200ab5c.chunk.js"
+    "revision": "90985455e78e5ccbbf5e",
+    "url": "/dont-starve-app/static/js/main.a8780b0a.chunk.js"
   },
   {
     "revision": "996447c32e6283579bba",

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dont-starve-app/static/css/main.b63a97bc.chunk.css",
-    "main.js": "/dont-starve-app/static/js/main.8200ab5c.chunk.js",
-    "main.js.map": "/dont-starve-app/static/js/main.8200ab5c.chunk.js.map",
+    "main.js": "/dont-starve-app/static/js/main.a8780b0a.chunk.js",
+    "main.js.map": "/dont-starve-app/static/js/main.a8780b0a.chunk.js.map",
     "runtime-main.js": "/dont-starve-app/static/js/runtime-main.064c9129.js",
     "runtime-main.js.map": "/dont-starve-app/static/js/runtime-main.064c9129.js.map",
     "static/css/2.d34346ea.chunk.css": "/dont-starve-app/static/css/2.d34346ea.chunk.css",
     "static/js/2.4b5b54c3.chunk.js": "/dont-starve-app/static/js/2.4b5b54c3.chunk.js",
     "static/js/2.4b5b54c3.chunk.js.map": "/dont-starve-app/static/js/2.4b5b54c3.chunk.js.map",
     "index.html": "/dont-starve-app/index.html",
-    "precache-manifest.8517f2e5911aa2ced762a5c846ec6ff2.js": "/dont-starve-app/precache-manifest.8517f2e5911aa2ced762a5c846ec6ff2.js",
+    "precache-manifest.3100919255dc4687a15addb59c682fac.js": "/dont-starve-app/precache-manifest.3100919255dc4687a15addb59c682fac.js",
     "service-worker.js": "/dont-starve-app/service-worker.js",
     "static/css/2.d34346ea.chunk.css.map": "/dont-starve-app/static/css/2.d34346ea.chunk.css.map",
     "static/css/main.b63a97bc.chunk.css.map": "/dont-starve-app/static/css/main.b63a97bc.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d34346ea.chunk.css",
     "static/js/2.4b5b54c3.chunk.js",
     "static/css/main.b63a97bc.chunk.css",
-    "static/js/main.8200ab5c.chunk.js"
+    "static/js/main.a8780b0a.chunk.js"
   ]
 }
