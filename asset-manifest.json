@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dont-starve-app/static/css/main.b63a97bc.chunk.css",
+    "main.js": "/dont-starve-app/static/js/main.693fb95a.chunk.js",
+    "main.js.map": "/dont-starve-app/static/js/main.693fb95a.chunk.js.map",
+    "runtime-main.js": "/dont-starve-app/static/js/runtime-main.064c9129.js",
+    "runtime-main.js.map": "/dont-starve-app/static/js/runtime-main.064c9129.js.map",
+    "static/css/2.d34346ea.chunk.css": "/dont-starve-app/static/css/2.d34346ea.chunk.css",
+    "static/js/2.4b5b54c3.chunk.js": "/dont-starve-app/static/js/2.4b5b54c3.chunk.js",
+    "static/js/2.4b5b54c3.chunk.js.map": "/dont-starve-app/static/js/2.4b5b54c3.chunk.js.map",
+    "index.html": "/dont-starve-app/index.html",
+    "precache-manifest.2ae0cbe02c61f353f36bcb1788741e12.js": "/dont-starve-app/precache-manifest.2ae0cbe02c61f353f36bcb1788741e12.js",
+    "service-worker.js": "/dont-starve-app/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/dont-starve-app/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.b63a97bc.chunk.css.map": "/dont-starve-app/static/css/main.b63a97bc.chunk.css.map",
+    "static/js/2.4b5b54c3.chunk.js.LICENSE.txt": "/dont-starve-app/static/js/2.4b5b54c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.064c9129.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.4b5b54c3.chunk.js",
+    "static/css/main.b63a97bc.chunk.css",
+    "static/js/main.693fb95a.chunk.js"
+  ]
+}
