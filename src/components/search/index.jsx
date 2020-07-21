@@ -30,6 +30,10 @@ const Search = ({setData}) => {
       filterExact: selectSelected
     })
 
+    results.nodes.forEach(node => {
+      node.svg = `${process.env.PUBLIC_URL}/${node.svg}`
+    })
+
     setData(results)
     hasResults(results)
   }

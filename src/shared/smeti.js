@@ -2,2667 +2,2667 @@ const data = {
     "nodes": [
         {
             "id": "Star Callers Staff",
-            "svg": process.env.PUBLIC_URL + "images/yellowstaff.jpg",
+            "svg": "images/yellowstaff.jpg",
             "group": 1
         },
         {
             "id": "Nightmare Fuel",
-            "svg": process.env.PUBLIC_URL + "images/nightmarefuel.jpg",
+            "svg": "images/nightmarefuel.jpg",
             "group": 1
         },
         {
             "id": "Dark Petals",
-            "svg": process.env.PUBLIC_URL + "images/petalsevil.jpg",
+            "svg": "images/petalsevil.jpg",
             "group": 1
         },
         {
             "id": "Living Log",
-            "svg": process.env.PUBLIC_URL + "images/livinglog.jpg",
+            "svg": "images/livinglog.jpg",
             "group": 1
         },
         {
             "id": "Yellow Gem",
-            "svg": process.env.PUBLIC_URL + "images/yellowgem.jpg",
+            "svg": "images/yellowgem.jpg",
             "group": 1
         },
         {
             "id": "Thulecite Suit",
-            "svg": process.env.PUBLIC_URL + "images/armorruins.jpg",
+            "svg": "images/armorruins.jpg",
             "group": 1
         },
         {
             "id": "Thulecite",
-            "svg": process.env.PUBLIC_URL + "images/thulecite.jpg",
+            "svg": "images/thulecite.jpg",
             "group": 1
         },
         {
             "id": "Thulecite Fragments",
-            "svg": process.env.PUBLIC_URL + "images/thulecitepieces.jpg",
+            "svg": "images/thulecitepieces.jpg",
             "group": 1
         },
         {
             "id": "Wood Wall",
-            "svg": process.env.PUBLIC_URL + "images/wallwooditem.jpg",
+            "svg": "images/wallwooditem.jpg",
             "group": 1
         },
         {
             "id": "Boards",
-            "svg": process.env.PUBLIC_URL + "images/boards.jpg",
+            "svg": "images/boards.jpg",
             "group": 1
         },
         {
             "id": "Log",
-            "svg": process.env.PUBLIC_URL + "images/log.jpg",
+            "svg": "images/log.jpg",
             "group": 1
         },
         {
             "id": "Rope",
-            "svg": process.env.PUBLIC_URL + "images/rope.jpg",
+            "svg": "images/rope.jpg",
             "group": 1
         },
         {
             "id": "Cut Grass",
-            "svg": process.env.PUBLIC_URL + "images/cutgrass.jpg",
+            "svg": "images/cutgrass.jpg",
             "group": 1
         },
         {
             "id": "Top Hat",
-            "svg": process.env.PUBLIC_URL + "images/tophat.jpg",
+            "svg": "images/tophat.jpg",
             "group": 1
         },
         {
             "id": "Silk",
-            "svg": process.env.PUBLIC_URL + "images/silk.jpg",
+            "svg": "images/silk.jpg",
             "group": 1
         },
         {
             "id": "Beefalo Hat",
-            "svg": process.env.PUBLIC_URL + "images/beefalohat.jpg",
+            "svg": "images/beefalohat.jpg",
             "group": 1
         },
         {
             "id": "Beefalo Wool",
-            "svg": process.env.PUBLIC_URL + "images/beefalowool.jpg",
+            "svg": "images/beefalowool.jpg",
             "group": 1
         },
         {
             "id": "Beefalo Horn",
-            "svg": process.env.PUBLIC_URL + "images/horn.jpg",
+            "svg": "images/horn.jpg",
             "group": 1
         },
         {
             "id": "Slow-Down Rounds",
-            "svg": process.env.PUBLIC_URL + "images/slingshotammoslow.jpg",
+            "svg": "images/slingshotammoslow.jpg",
             "group": 1
         },
         {
             "id": "Moon Rock",
-            "svg": process.env.PUBLIC_URL + "images/moonrocknugget.jpg",
+            "svg": "images/moonrocknugget.jpg",
             "group": 1
         },
         {
             "id": "Purple Gem",
-            "svg": process.env.PUBLIC_URL + "images/purplegem.jpg",
+            "svg": "images/purplegem.jpg",
             "group": 1
         },
         {
             "id": "Red Gem",
-            "svg": process.env.PUBLIC_URL + "images/redgem.jpg",
+            "svg": "images/redgem.jpg",
             "group": 1
         },
         {
             "id": "Blue Gem",
-            "svg": process.env.PUBLIC_URL + "images/bluegem.jpg",
+            "svg": "images/bluegem.jpg",
             "group": 1
         },
         {
             "id": "Red Lantern",
-            "svg": process.env.PUBLIC_URL + "images/redlantern.jpg",
+            "svg": "images/redlantern.jpg",
             "group": 1
         },
         {
             "id": "Lucky Gold Nugget",
-            "svg": process.env.PUBLIC_URL + "images/luckygoldnugget.jpg",
+            "svg": "images/luckygoldnugget.jpg",
             "group": 1
         },
         {
             "id": "Replica Relic Dish",
-            "svg": process.env.PUBLIC_URL + "images/ruinsrelicchipbowl.jpg",
+            "svg": "images/ruinsrelicchipbowl.jpg",
             "group": 1
         },
         {
             "id": "Cut Stone",
-            "svg": process.env.PUBLIC_URL + "images/cutstone.jpg",
+            "svg": "images/cutstone.jpg",
             "group": 1
         },
         {
             "id": "Rocks",
-            "svg": process.env.PUBLIC_URL + "images/rocks.jpg",
+            "svg": "images/rocks.jpg",
             "group": 1
         },
         {
             "id": "Cobblestones",
-            "svg": process.env.PUBLIC_URL + "images/turfroad.jpg",
+            "svg": "images/turfroad.jpg",
             "group": 1
         },
         {
             "id": "Rocky Turf",
-            "svg": process.env.PUBLIC_URL + "images/turfrocky.jpg",
+            "svg": "images/turfrocky.jpg",
             "group": 1
         },
         {
             "id": "Carrat Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiececarratbuilder.jpg",
+            "svg": "images/chesspiececarratbuilder.jpg",
             "group": 1
         },
         {
             "id": "Green Moonlens",
-            "svg": process.env.PUBLIC_URL + "images/greenmooneye.jpg",
+            "svg": "images/greenmooneye.jpg",
             "group": 1
         },
         {
             "id": "Cratered Moonrock",
-            "svg": process.env.PUBLIC_URL + "images/moonrockcrater.jpg",
+            "svg": "images/moonrockcrater.jpg",
             "group": 1
         },
         {
             "id": "Green Gem",
-            "svg": process.env.PUBLIC_URL + "images/greengem.jpg",
+            "svg": "images/greengem.jpg",
             "group": 1
         },
         {
             "id": "Carpeted Flooring",
-            "svg": process.env.PUBLIC_URL + "images/turfcarpetfloor.jpg",
+            "svg": "images/turfcarpetfloor.jpg",
             "group": 1
         },
         {
             "id": "Finish Line",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratracefinish.jpg",
+            "svg": "images/yotccarratracefinish.jpg",
             "group": 1
         },
         {
             "id": "Gold Nugget",
-            "svg": process.env.PUBLIC_URL + "images/goldnugget.jpg",
+            "svg": "images/goldnugget.jpg",
             "group": 1
         },
         {
             "id": "Boomerang",
-            "svg": process.env.PUBLIC_URL + "images/boomerang.jpg",
+            "svg": "images/boomerang.jpg",
             "group": 1
         },
         {
             "id": "Charcoal",
-            "svg": process.env.PUBLIC_URL + "images/charcoal.jpg",
+            "svg": "images/charcoal.jpg",
             "group": 1
         },
         {
             "id": "Wooden Ball Bobber",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishingbobberball.jpg",
+            "svg": "images/oceanfishingbobberball.jpg",
             "group": 1
         },
         {
             "id": "Tourtiere",
-            "svg": process.env.PUBLIC_URL + "images/wintercookingtourtiere.jpg",
+            "svg": "images/wintercookingtourtiere.jpg",
             "group": 1
         },
         {
             "id": "Holiday Cheer",
-            "svg": process.env.PUBLIC_URL + "images/wintersfeastfuel.jpg",
+            "svg": "images/wintersfeastfuel.jpg",
             "group": 1
         },
         {
             "id": "Birchnut",
-            "svg": process.env.PUBLIC_URL + "images/acorn.jpg",
+            "svg": "images/acorn.jpg",
             "group": 1
         },
         {
             "id": "Pine Cone",
-            "svg": process.env.PUBLIC_URL + "images/pinecone.jpg",
+            "svg": "images/pinecone.jpg",
             "group": 1
         },
         {
             "id": "Alchemy Engine",
-            "svg": process.env.PUBLIC_URL + "images/researchlab2.jpg",
+            "svg": "images/researchlab2.jpg",
             "group": 1
         },
         {
             "id": "Electrical Doodad",
-            "svg": process.env.PUBLIC_URL + "images/transistor.jpg",
+            "svg": "images/transistor.jpg",
             "group": 1
         },
         {
             "id": "Replica Relic Bowl",
-            "svg": process.env.PUBLIC_URL + "images/ruinsrelicbowl.jpg",
+            "svg": "images/ruinsrelicbowl.jpg",
             "group": 1
         },
         {
             "id": "On Tentacles",
-            "svg": process.env.PUBLIC_URL + "images/booktentacles.jpg",
+            "svg": "images/booktentacles.jpg",
             "group": 1
         },
         {
             "id": "Papyrus",
-            "svg": process.env.PUBLIC_URL + "images/papyrus.jpg",
+            "svg": "images/papyrus.jpg",
             "group": 1
         },
         {
             "id": "Cut Reeds",
-            "svg": process.env.PUBLIC_URL + "images/cutreeds.jpg",
+            "svg": "images/cutreeds.jpg",
             "group": 1
         },
         {
             "id": "Tentacle Spots",
-            "svg": process.env.PUBLIC_URL + "images/tentaclespots.jpg",
+            "svg": "images/tentaclespots.jpg",
             "group": 1
         },
         {
             "id": "Fire Pit",
-            "svg": process.env.PUBLIC_URL + "images/firepit.jpg",
+            "svg": "images/firepit.jpg",
             "group": 1
         },
         {
             "id": "Compost Wrap",
-            "svg": process.env.PUBLIC_URL + "images/compostwrap.jpg",
+            "svg": "images/compostwrap.jpg",
             "group": 1
         },
         {
             "id": "Manure",
-            "svg": process.env.PUBLIC_URL + "images/poop.jpg",
+            "svg": "images/poop.jpg",
             "group": 1
         },
         {
             "id": "Rot",
-            "svg": process.env.PUBLIC_URL + "images/spoiledfood.jpg",
+            "svg": "images/spoiledfood.jpg",
             "group": 1
         },
         {
             "id": "Nitre",
-            "svg": process.env.PUBLIC_URL + "images/nitre.jpg",
+            "svg": "images/nitre.jpg",
             "group": 1
         },
         {
             "id": "Whirly Fan",
-            "svg": process.env.PUBLIC_URL + "images/minifan.jpg",
+            "svg": "images/minifan.jpg",
             "group": 1
         },
         {
             "id": "Twigs",
-            "svg": process.env.PUBLIC_URL + "images/twigs.jpg",
+            "svg": "images/twigs.jpg",
             "group": 1
         },
         {
             "id": "Petals",
-            "svg": process.env.PUBLIC_URL + "images/petals.jpg",
+            "svg": "images/petals.jpg",
             "group": 1
         },
         {
             "id": "Boat Patch",
-            "svg": process.env.PUBLIC_URL + "images/boatpatch.jpg",
+            "svg": "images/boatpatch.jpg",
             "group": 1
         },
         {
             "id": "Stinger",
-            "svg": process.env.PUBLIC_URL + "images/stinger.jpg",
+            "svg": "images/stinger.jpg",
             "group": 1
         },
         {
             "id": "DIY Royalty Kit",
-            "svg": process.env.PUBLIC_URL + "images/mermthroneconstruction.jpg",
+            "svg": "images/mermthroneconstruction.jpg",
             "group": 1
         },
         {
             "id": "Scaled Flooring",
-            "svg": process.env.PUBLIC_URL + "images/turfdragonfly.jpg",
+            "svg": "images/turfdragonfly.jpg",
             "group": 1
         },
         {
             "id": "Scales",
-            "svg": process.env.PUBLIC_URL + "images/dragonscales.jpg",
+            "svg": "images/dragonscales.jpg",
             "group": 1
         },
         {
             "id": "Crock Pot",
-            "svg": process.env.PUBLIC_URL + "images/cookpot.jpg",
+            "svg": "images/cookpot.jpg",
             "group": 1
         },
         {
             "id": "Pinchin Winch",
-            "svg": process.env.PUBLIC_URL + "images/winch.jpg",
+            "svg": "images/winch.jpg",
             "group": 1
         },
         {
             "id": "Reflex Gym Kit",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratgymreactionitem.jpg",
+            "svg": "images/yotccarratgymreactionitem.jpg",
             "group": 1
         },
         {
             "id": "Marble Suit",
-            "svg": process.env.PUBLIC_URL + "images/armormarble.jpg",
+            "svg": "images/armormarble.jpg",
             "group": 1
         },
         {
             "id": "Marble",
-            "svg": process.env.PUBLIC_URL + "images/marble.jpg",
+            "svg": "images/marble.jpg",
             "group": 1
         },
         {
             "id": "Red Funcap",
-            "svg": process.env.PUBLIC_URL + "images/redmushroomhat.jpg",
+            "svg": "images/redmushroomhat.jpg",
             "group": 1
         },
         {
             "id": "Red Cap",
-            "svg": process.env.PUBLIC_URL + "images/redcap.jpg",
+            "svg": "images/redcap.jpg",
             "group": 1
         },
         {
             "id": "Pocket Scale",
-            "svg": process.env.PUBLIC_URL + "images/pocketscale.jpg",
+            "svg": "images/pocketscale.jpg",
             "group": 1
         },
         {
             "id": "Heavy Weighted Lure",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishinglurehermitheavy.jpg",
+            "svg": "images/oceanfishinglurehermitheavy.jpg",
             "group": 1
         },
         {
             "id": "Cookie Cutter Shell",
-            "svg": process.env.PUBLIC_URL + "images/cookiecuttershell.jpg",
+            "svg": "images/cookiecuttershell.jpg",
             "group": 1
         },
         {
             "id": "Packet of Seeds",
-            "svg": process.env.PUBLIC_URL + "images/yotcseedpacket.jpg",
+            "svg": "images/yotcseedpacket.jpg",
             "group": 1
         },
         {
             "id": "Bubble Pipe Carving",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecepipebuilder.jpg",
+            "svg": "images/chesspiecepipebuilder.jpg",
             "group": 1
         },
         {
             "id": "Kitschy Goose Idol",
-            "svg": process.env.PUBLIC_URL + "images/wereitemgoose.jpg",
+            "svg": "images/wereitemgoose.jpg",
             "group": 1
         },
         {
             "id": "Monster Meat",
-            "svg": process.env.PUBLIC_URL + "images/monstermeat.jpg",
+            "svg": "images/monstermeat.jpg",
             "group": 1
         },
         {
             "id": "Seeds",
-            "svg": process.env.PUBLIC_URL + "images/seeds.jpg",
+            "svg": "images/seeds.jpg",
             "group": 1
         },
         {
             "id": "Portable Seasoning Station",
-            "svg": process.env.PUBLIC_URL + "images/portablespiceritem.jpg",
+            "svg": "images/portablespiceritem.jpg",
             "group": 1
         },
         {
             "id": "Gunpowder",
-            "svg": process.env.PUBLIC_URL + "images/gunpowder.jpg",
+            "svg": "images/gunpowder.jpg",
             "group": 1
         },
         {
             "id": "Rotten Egg",
-            "svg": process.env.PUBLIC_URL + "images/rottenegg.jpg",
+            "svg": "images/rottenegg.jpg",
             "group": 1
         },
         {
             "id": "Sunken Chest",
-            "svg": process.env.PUBLIC_URL + "images/sunkenchest.jpg",
+            "svg": "images/sunkenchest.jpg",
             "group": 1
         },
         {
             "id": "Broken Shell",
-            "svg": process.env.PUBLIC_URL + "images/slurtleshellpieces.jpg",
+            "svg": "images/slurtleshellpieces.jpg",
             "group": 1
         },
         {
             "id": "Broodling",
-            "svg": process.env.PUBLIC_URL + "images/critterdragonlingbuilder.jpg",
+            "svg": "images/critterdragonlingbuilder.jpg",
             "group": 1
         },
         {
             "id": "Chilled Lavae",
-            "svg": process.env.PUBLIC_URL + "images/lavaecocoon.jpg",
+            "svg": "images/lavaecocoon.jpg",
             "group": 1
         },
         {
             "id": "Spicy Chili",
-            "svg": process.env.PUBLIC_URL + "images/hotchili.jpg",
+            "svg": "images/hotchili.jpg",
             "group": 1
         },
         {
             "id": "Friendly Scarecrow",
-            "svg": process.env.PUBLIC_URL + "images/scarecrow.jpg",
+            "svg": "images/scarecrow.jpg",
             "group": 1
         },
         {
             "id": "Pumpkin",
-            "svg": process.env.PUBLIC_URL + "images/pumpkin.jpg",
+            "svg": "images/pumpkin.jpg",
             "group": 1
         },
         {
             "id": "Napsack",
-            "svg": process.env.PUBLIC_URL + "images/sleepbomb.jpg",
+            "svg": "images/sleepbomb.jpg",
             "group": 1
         },
         {
             "id": "Shroom Skin",
-            "svg": process.env.PUBLIC_URL + "images/shroomskin.jpg",
+            "svg": "images/shroomskin.jpg",
             "group": 1
         },
         {
             "id": "Canary (Volatile)",
-            "svg": process.env.PUBLIC_URL + "images/canarypoisoned.jpg",
+            "svg": "images/canarypoisoned.jpg",
             "group": 1
         },
         {
             "id": "Grass Suit",
-            "svg": process.env.PUBLIC_URL + "images/armorgrass.jpg",
+            "svg": "images/armorgrass.jpg",
             "group": 1
         },
         {
             "id": "Lucky Beast Tail",
-            "svg": process.env.PUBLIC_URL + "images/dragontailhat.jpg",
+            "svg": "images/dragontailhat.jpg",
             "group": 1
         },
         {
             "id": "Anchor",
-            "svg": process.env.PUBLIC_URL + "images/anchor.jpg",
+            "svg": "images/anchor.jpg",
             "group": 1
         },
         {
             "id": "Dapper Vest",
-            "svg": process.env.PUBLIC_URL + "images/sweatervest.jpg",
+            "svg": "images/sweatervest.jpg",
             "group": 1
         },
         {
             "id": "Hounds Tooth",
-            "svg": process.env.PUBLIC_URL + "images/houndstooth.jpg",
+            "svg": "images/houndstooth.jpg",
             "group": 1
         },
         {
             "id": "Miner Hat",
-            "svg": process.env.PUBLIC_URL + "images/minerhat.jpg",
+            "svg": "images/minerhat.jpg",
             "group": 1
         },
         {
             "id": "Straw Hat",
-            "svg": process.env.PUBLIC_URL + "images/strawhat.jpg",
+            "svg": "images/strawhat.jpg",
             "group": 1
         },
         {
             "id": "Fireflies",
-            "svg": process.env.PUBLIC_URL + "images/fireflies.jpg",
+            "svg": "images/fireflies.jpg",
             "group": 1
         },
         {
             "id": "Merry Berrysauce",
-            "svg": process.env.PUBLIC_URL + "images/wintercookingberrysauce.jpg",
+            "svg": "images/wintercookingberrysauce.jpg",
             "group": 1
         },
         {
             "id": "Mosquito Sack",
-            "svg": process.env.PUBLIC_URL + "images/mosquitosack.jpg",
+            "svg": "images/mosquitosack.jpg",
             "group": 1
         },
         {
             "id": "Kitschy Moose Idol",
-            "svg": process.env.PUBLIC_URL + "images/wereitemmoose.jpg",
+            "svg": "images/wereitemmoose.jpg",
             "group": 1
         },
         {
             "id": "Boat Kit",
-            "svg": process.env.PUBLIC_URL + "images/boatitem.jpg",
+            "svg": "images/boatitem.jpg",
             "group": 1
         },
         {
             "id": "Replica Relic Plate",
-            "svg": process.env.PUBLIC_URL + "images/ruinsrelicplate.jpg",
+            "svg": "images/ruinsrelicplate.jpg",
             "group": 1
         },
         {
             "id": "Queenly Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecemusebuilder.jpg",
+            "svg": "images/chesspiecemusebuilder.jpg",
             "group": 1
         },
         {
             "id": "Rain Hat",
-            "svg": process.env.PUBLIC_URL + "images/rainhat.jpg",
+            "svg": "images/rainhat.jpg",
             "group": 1
         },
         {
             "id": "Moleworm",
-            "svg": process.env.PUBLIC_URL + "images/mole.jpg",
+            "svg": "images/mole.jpg",
             "group": 1
         },
         {
             "id": "Bone Shards",
-            "svg": process.env.PUBLIC_URL + "images/boneshard.jpg",
+            "svg": "images/boneshard.jpg",
             "group": 1
         },
         {
             "id": "Blow Dart",
-            "svg": process.env.PUBLIC_URL + "images/blowdartpipe.jpg",
+            "svg": "images/blowdartpipe.jpg",
             "group": 1
         },
         {
             "id": "Azure Feather",
-            "svg": process.env.PUBLIC_URL + "images/featherrobinwinter.jpg",
+            "svg": "images/featherrobinwinter.jpg",
             "group": 1
         },
         {
             "id": "Strident Trident",
-            "svg": process.env.PUBLIC_URL + "images/trident.jpg",
+            "svg": "images/trident.jpg",
             "group": 1
         },
         {
             "id": "Gnarwail Horn",
-            "svg": process.env.PUBLIC_URL + "images/gnarwailhorn.jpg",
+            "svg": "images/gnarwailhorn.jpg",
             "group": 1
         },
         {
             "id": "Kelp Fronds",
-            "svg": process.env.PUBLIC_URL + "images/kelp.jpg",
+            "svg": "images/kelp.jpg",
             "group": 1
         },
         {
             "id": "Beeswax",
-            "svg": process.env.PUBLIC_URL + "images/beeswax.jpg",
+            "svg": "images/beeswax.jpg",
             "group": 1
         },
         {
             "id": "Honeycomb",
-            "svg": process.env.PUBLIC_URL + "images/honeycomb.jpg",
+            "svg": "images/honeycomb.jpg",
             "group": 1
         },
         {
             "id": "Rainometer",
-            "svg": process.env.PUBLIC_URL + "images/rainometer.jpg",
+            "svg": "images/rainometer.jpg",
             "group": 1
         },
         {
             "id": "Lucky Whistle",
-            "svg": process.env.PUBLIC_URL + "images/houndwhistle.jpg",
+            "svg": "images/houndwhistle.jpg",
             "group": 1
         },
         {
             "id": "Shadow Miner",
-            "svg": process.env.PUBLIC_URL + "images/shadowminerbuilder.jpg",
+            "svg": "images/shadowminerbuilder.jpg",
             "group": 1
         },
         {
             "id": "Pickaxe",
-            "svg": process.env.PUBLIC_URL + "images/pickaxe.jpg",
+            "svg": "images/pickaxe.jpg",
             "group": 1
         },
         {
             "id": "Flint",
-            "svg": process.env.PUBLIC_URL + "images/flint.jpg",
+            "svg": "images/flint.jpg",
             "group": 1
         },
         {
             "id": "Pile o Balloons",
-            "svg": process.env.PUBLIC_URL + "images/balloonsempty.jpg",
+            "svg": "images/balloonsempty.jpg",
             "group": 1
         },
         {
             "id": "Waterballoon",
-            "svg": process.env.PUBLIC_URL + "images/waterballoon.jpg",
+            "svg": "images/waterballoon.jpg",
             "group": 1
         },
         {
             "id": "Ice",
-            "svg": process.env.PUBLIC_URL + "images/ice.jpg",
+            "svg": "images/ice.jpg",
             "group": 1
         },
         {
             "id": "Rainy Day Lure",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishinglurehermitrain.jpg",
+            "svg": "images/oceanfishinglurehermitrain.jpg",
             "group": 1
         },
         {
             "id": "Sea Fishing Rod",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishingrod.jpg",
+            "svg": "images/oceanfishingrod.jpg",
             "group": 1
         },
         {
             "id": "Deconstruction Staff",
-            "svg": process.env.PUBLIC_URL + "images/greenstaff.jpg",
+            "svg": "images/greenstaff.jpg",
             "group": 1
         },
         {
             "id": "Booster Shot",
-            "svg": process.env.PUBLIC_URL + "images/lifeinjector.jpg",
+            "svg": "images/lifeinjector.jpg",
             "group": 1
         },
         {
             "id": "Luxury Fan",
-            "svg": process.env.PUBLIC_URL + "images/featherfan.jpg",
+            "svg": "images/featherfan.jpg",
             "group": 1
         },
         {
             "id": "Down Feather",
-            "svg": process.env.PUBLIC_URL + "images/goosefeather.jpg",
+            "svg": "images/goosefeather.jpg",
             "group": 1
         },
         {
             "id": "Winonas G.E.M.erator",
-            "svg": process.env.PUBLIC_URL + "images/winonabatteryhigh.jpg",
+            "svg": "images/winonabatteryhigh.jpg",
             "group": 1
         },
         {
             "id": "Trusty Tape",
-            "svg": process.env.PUBLIC_URL + "images/sewingtape.jpg",
+            "svg": "images/sewingtape.jpg",
             "group": 1
         },
         {
             "id": "Houndius Shootius",
-            "svg": process.env.PUBLIC_URL + "images/eyeturretitem.jpg",
+            "svg": "images/eyeturretitem.jpg",
             "group": 1
         },
         {
             "id": "Deerclops Eyeball",
-            "svg": process.env.PUBLIC_URL + "images/deerclopseyeball.jpg",
+            "svg": "images/deerclopseyeball.jpg",
             "group": 1
         },
         {
             "id": "Guardians Horn",
-            "svg": process.env.PUBLIC_URL + "images/minotaurhorn.jpg",
+            "svg": "images/minotaurhorn.jpg",
             "group": 1
         },
         {
             "id": "Navigation Gym Kit",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratgymdirectionitem.jpg",
+            "svg": "images/yotccarratgymdirectionitem.jpg",
             "group": 1
         },
         {
             "id": "Lucky Beast Head",
-            "svg": process.env.PUBLIC_URL + "images/dragonheadhat.jpg",
+            "svg": "images/dragonheadhat.jpg",
             "group": 1
         },
         {
             "id": "Life Giving Amulet",
-            "svg": process.env.PUBLIC_URL + "images/amulet.jpg",
+            "svg": "images/amulet.jpg",
             "group": 1
         },
         {
             "id": "Thulecite Crown",
-            "svg": process.env.PUBLIC_URL + "images/ruinshat.jpg",
+            "svg": "images/ruinshat.jpg",
             "group": 1
         },
         {
             "id": "Garland",
-            "svg": process.env.PUBLIC_URL + "images/flowerhat.jpg",
+            "svg": "images/flowerhat.jpg",
             "group": 1
         },
         {
             "id": "Construction Amulet",
-            "svg": process.env.PUBLIC_URL + "images/greenamulet.jpg",
+            "svg": "images/greenamulet.jpg",
             "group": 1
         },
         {
             "id": "Birdcage",
-            "svg": process.env.PUBLIC_URL + "images/birdcage.jpg",
+            "svg": "images/birdcage.jpg",
             "group": 1
         },
         {
             "id": "Prestihatitator",
-            "svg": process.env.PUBLIC_URL + "images/researchlab4.jpg",
+            "svg": "images/researchlab4.jpg",
             "group": 1
         },
         {
             "id": "Rabbit",
-            "svg": process.env.PUBLIC_URL + "images/rabbit.jpg",
+            "svg": "images/rabbit.jpg",
             "group": 1
         },
         {
             "id": "Red Firecrackers",
-            "svg": process.env.PUBLIC_URL + "images/firecrackers.jpg",
+            "svg": "images/firecrackers.jpg",
             "group": 1
         },
         {
             "id": "Snow Day Lure",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishinglurehermitsnow.jpg",
+            "svg": "images/oceanfishinglurehermitsnow.jpg",
             "group": 1
         },
         {
             "id": "Kitschy Beaver Idol",
-            "svg": process.env.PUBLIC_URL + "images/wereitembeaver.jpg",
+            "svg": "images/wereitembeaver.jpg",
             "group": 1
         },
         {
             "id": "War Saddle",
-            "svg": process.env.PUBLIC_URL + "images/saddlewar.jpg",
+            "svg": "images/saddlewar.jpg",
             "group": 1
         },
         {
             "id": "Steel Wool",
-            "svg": process.env.PUBLIC_URL + "images/steelwool.jpg",
+            "svg": "images/steelwool.jpg",
             "group": 1
         },
         {
             "id": "Glowcap",
-            "svg": process.env.PUBLIC_URL + "images/mushroomlight2.jpg",
+            "svg": "images/mushroomlight2.jpg",
             "group": 1
         },
         {
             "id": "Bucket-o-poop",
-            "svg": process.env.PUBLIC_URL + "images/fertilizer.jpg",
+            "svg": "images/fertilizer.jpg",
             "group": 1
         },
         {
             "id": "Anchor Figure Sketch",
-            "svg": process.env.PUBLIC_URL + "images/chesspieceanchorsketch.jpg",
+            "svg": "images/chesspieceanchorsketch.jpg",
             "group": 1
         },
         {
             "id": "Mad Scientist Lab",
-            "svg": process.env.PUBLIC_URL + "images/madsciencelab.jpg",
+            "svg": "images/madsciencelab.jpg",
             "group": 1
         },
         {
             "id": "Siesta Lean-to",
-            "svg": process.env.PUBLIC_URL + "images/siestahut.jpg",
+            "svg": "images/siestahut.jpg",
             "group": 1
         },
         {
             "id": "Telelocator Staff",
-            "svg": process.env.PUBLIC_URL + "images/telestaff.jpg",
+            "svg": "images/telestaff.jpg",
             "group": 1
         },
         {
             "id": "Moon Rock Idol",
-            "svg": process.env.PUBLIC_URL + "images/moonrockidol.jpg",
+            "svg": "images/moonrockidol.jpg",
             "group": 1
         },
         {
             "id": "Spider Eggs",
-            "svg": process.env.PUBLIC_URL + "images/spidereggsack.jpg",
+            "svg": "images/spidereggsack.jpg",
             "group": 1
         },
         {
             "id": "Spider Gland",
-            "svg": process.env.PUBLIC_URL + "images/spidergland.jpg",
+            "svg": "images/spidergland.jpg",
             "group": 1
         },
         {
             "id": "Craftsmerm House",
-            "svg": process.env.PUBLIC_URL + "images/mermhousecrafted.jpg",
+            "svg": "images/mermhousecrafted.jpg",
             "group": 1
         },
         {
             "id": "Freshwater Fish",
-            "svg": process.env.PUBLIC_URL + "images/pondfish.jpg",
+            "svg": "images/pondfish.jpg",
             "group": 1
         },
         {
             "id": "Hibearnation Vest",
-            "svg": process.env.PUBLIC_URL + "images/beargervest.jpg",
+            "svg": "images/beargervest.jpg",
             "group": 1
         },
         {
             "id": "Thick Fur",
-            "svg": process.env.PUBLIC_URL + "images/beargerfur.jpg",
+            "svg": "images/beargerfur.jpg",
             "group": 1
         },
         {
             "id": "Fur Tuft",
-            "svg": process.env.PUBLIC_URL + "images/furtuft.jpg",
+            "svg": "images/furtuft.jpg",
             "group": 1
         },
         {
             "id": "The Lazy Deserter",
-            "svg": process.env.PUBLIC_URL + "images/townportal.jpg",
+            "svg": "images/townportal.jpg",
             "group": 1
         },
         {
             "id": "Orange Moonlens",
-            "svg": process.env.PUBLIC_URL + "images/orangemooneye.jpg",
+            "svg": "images/orangemooneye.jpg",
             "group": 1
         },
         {
             "id": "Orange Gem",
-            "svg": process.env.PUBLIC_URL + "images/orangegem.jpg",
+            "svg": "images/orangegem.jpg",
             "group": 1
         },
         {
             "id": "Desert Stone",
-            "svg": process.env.PUBLIC_URL + "images/townportaltalisman.jpg",
+            "svg": "images/townportaltalisman.jpg",
             "group": 1
         },
         {
             "id": "Fire Staff",
-            "svg": process.env.PUBLIC_URL + "images/firestaff.jpg",
+            "svg": "images/firestaff.jpg",
             "group": 1
         },
         {
             "id": "Spear",
-            "svg": process.env.PUBLIC_URL + "images/spear.jpg",
+            "svg": "images/spear.jpg",
             "group": 1
         },
         {
             "id": "Pitchfork",
-            "svg": process.env.PUBLIC_URL + "images/pitchfork.jpg",
+            "svg": "images/pitchfork.jpg",
             "group": 1
         },
         {
             "id": "Battle Helm",
-            "svg": process.env.PUBLIC_URL + "images/wathgrithrhat.jpg",
+            "svg": "images/wathgrithrhat.jpg",
             "group": 1
         },
         {
             "id": "Straw Roll",
-            "svg": process.env.PUBLIC_URL + "images/bedrollstraw.jpg",
+            "svg": "images/bedrollstraw.jpg",
             "group": 1
         },
         {
             "id": "Tail o Three Cats",
-            "svg": process.env.PUBLIC_URL + "images/whip.jpg",
+            "svg": "images/whip.jpg",
             "group": 1
         },
         {
             "id": "Cat Tail",
-            "svg": process.env.PUBLIC_URL + "images/coontail.jpg",
+            "svg": "images/coontail.jpg",
             "group": 1
         },
         {
             "id": "Blue Funcap",
-            "svg": process.env.PUBLIC_URL + "images/bluemushroomhat.jpg",
+            "svg": "images/bluemushroomhat.jpg",
             "group": 1
         },
         {
             "id": "Blue Cap",
-            "svg": process.env.PUBLIC_URL + "images/bluecap.jpg",
+            "svg": "images/bluecap.jpg",
             "group": 1
         },
         {
             "id": "Wood Gate",
-            "svg": process.env.PUBLIC_URL + "images/fencegateitem.jpg",
+            "svg": "images/fencegateitem.jpg",
             "group": 1
         },
         {
             "id": "Tent",
-            "svg": process.env.PUBLIC_URL + "images/tent.jpg",
+            "svg": "images/tent.jpg",
             "group": 1
         },
         {
             "id": "Anchor Kit",
-            "svg": process.env.PUBLIC_URL + "images/anchoritem.jpg",
+            "svg": "images/anchoritem.jpg",
             "group": 1
         },
         {
             "id": "Replica Relic Table",
-            "svg": process.env.PUBLIC_URL + "images/ruinsrelictable.jpg",
+            "svg": "images/ruinsrelictable.jpg",
             "group": 1
         },
         {
             "id": "Luxury Axe",
-            "svg": process.env.PUBLIC_URL + "images/goldenaxe.jpg",
+            "svg": "images/goldenaxe.jpg",
             "group": 1
         },
         {
             "id": "Moggles",
-            "svg": process.env.PUBLIC_URL + "images/molehat.jpg",
+            "svg": "images/molehat.jpg",
             "group": 1
         },
         {
             "id": "Glow Berry",
-            "svg": process.env.PUBLIC_URL + "images/wormlight.jpg",
+            "svg": "images/wormlight.jpg",
             "group": 1
         },
         {
             "id": "Moon Callers Staff",
-            "svg": process.env.PUBLIC_URL + "images/opalstaff.jpg",
+            "svg": "images/opalstaff.jpg",
             "group": 1
         },
         {
             "id": "Iridescent Gem",
-            "svg": process.env.PUBLIC_URL + "images/opalpreciousgem.jpg",
+            "svg": "images/opalpreciousgem.jpg",
             "group": 1
         },
         {
             "id": "Abigails Flower",
-            "svg": process.env.PUBLIC_URL + "images/abigailflower.jpg",
+            "svg": "images/abigailflower.jpg",
             "group": 1
         },
         {
             "id": "Mourning Glory",
-            "svg": process.env.PUBLIC_URL + "images/ghostflower.jpg",
+            "svg": "images/ghostflower.jpg",
             "group": 1
         },
         {
             "id": "Winonas Catapult",
-            "svg": process.env.PUBLIC_URL + "images/winonacatapult.jpg",
+            "svg": "images/winonacatapult.jpg",
             "group": 1
         },
         {
             "id": "Vigor Mortis",
-            "svg": process.env.PUBLIC_URL + "images/ghostlyelixirspeed.jpg",
+            "svg": "images/ghostlyelixirspeed.jpg",
             "group": 1
         },
         {
             "id": "Honey",
-            "svg": process.env.PUBLIC_URL + "images/honey.jpg",
+            "svg": "images/honey.jpg",
             "group": 1
         },
         {
             "id": "Bird Trap",
-            "svg": process.env.PUBLIC_URL + "images/birdtrap.jpg",
+            "svg": "images/birdtrap.jpg",
             "group": 1
         },
         {
             "id": "Fish Heads on a Stick",
-            "svg": process.env.PUBLIC_URL + "images/yotpfood3.jpg",
+            "svg": "images/yotpfood3.jpg",
             "group": 1
         },
         {
             "id": "Sisturn",
-            "svg": process.env.PUBLIC_URL + "images/sisturn.jpg",
+            "svg": "images/sisturn.jpg",
             "group": 1
         },
         {
             "id": "Ashes",
-            "svg": process.env.PUBLIC_URL + "images/ash.jpg",
+            "svg": "images/ash.jpg",
             "group": 1
         },
         {
             "id": "Checkpoint",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratracecheckpoint.jpg",
+            "svg": "images/yotccarratracecheckpoint.jpg",
             "group": 1
         },
         {
             "id": "Speed Gym",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratgymspeed.jpg",
+            "svg": "images/yotccarratgymspeed.jpg",
             "group": 1
         },
         {
             "id": "Jet Quill Float",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishingbobbercrow.jpg",
+            "svg": "images/oceanfishingbobbercrow.jpg",
             "group": 1
         },
         {
             "id": "Jet Feather",
-            "svg": process.env.PUBLIC_URL + "images/feathercrow.jpg",
+            "svg": "images/feathercrow.jpg",
             "group": 1
         },
         {
             "id": "Deerclops Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecedeerclopsbuilder.jpg",
+            "svg": "images/chesspiecedeerclopsbuilder.jpg",
             "group": 1
         },
         {
             "id": "Starting Point",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratracestart.jpg",
+            "svg": "images/yotccarratracestart.jpg",
             "group": 1
         },
         {
             "id": "Royal Tapestry",
-            "svg": process.env.PUBLIC_URL + "images/mermthrone.jpg",
+            "svg": "images/mermthrone.jpg",
             "group": 1
         },
         {
             "id": "Pig Skin",
-            "svg": process.env.PUBLIC_URL + "images/pigskin.jpg",
+            "svg": "images/pigskin.jpg",
             "group": 1
         },
         {
             "id": "Pinetree Pioneer Hat",
-            "svg": process.env.PUBLIC_URL + "images/walterhat.jpg",
+            "svg": "images/walterhat.jpg",
             "group": 1
         },
         {
             "id": "Yellow Moonlens",
-            "svg": process.env.PUBLIC_URL + "images/yellowmooneye.jpg",
+            "svg": "images/yellowmooneye.jpg",
             "group": 1
         },
         {
             "id": "Cursed Rounds",
-            "svg": process.env.PUBLIC_URL + "images/slingshotammothulecite.jpg",
+            "svg": "images/slingshotammothulecite.jpg",
             "group": 1
         },
         {
             "id": "Pan Flute",
-            "svg": process.env.PUBLIC_URL + "images/panflute.jpg",
+            "svg": "images/panflute.jpg",
             "group": 1
         },
         {
             "id": "Mandrake",
-            "svg": process.env.PUBLIC_URL + "images/mandrake.jpg",
+            "svg": "images/mandrake.jpg",
             "group": 1
         },
         {
             "id": "Bundling Wrap",
-            "svg": process.env.PUBLIC_URL + "images/bundlewrap.jpg",
+            "svg": "images/bundlewrap.jpg",
             "group": 1
         },
         {
             "id": "Wax Paper",
-            "svg": process.env.PUBLIC_URL + "images/waxpaper.jpg",
+            "svg": "images/waxpaper.jpg",
             "group": 1
         },
         {
             "id": "Weather Pain",
-            "svg": process.env.PUBLIC_URL + "images/stafftornado.jpg",
+            "svg": "images/stafftornado.jpg",
             "group": 1
         },
         {
             "id": "Volt Goat Horn",
-            "svg": process.env.PUBLIC_URL + "images/lightninggoathorn.jpg",
+            "svg": "images/lightninggoathorn.jpg",
             "group": 1
         },
         {
             "id": "Gears",
-            "svg": process.env.PUBLIC_URL + "images/gears.jpg",
+            "svg": "images/gears.jpg",
             "group": 1
         },
         {
             "id": "Replica Relic Vase",
-            "svg": process.env.PUBLIC_URL + "images/ruinsrelicvase.jpg",
+            "svg": "images/ruinsrelicvase.jpg",
             "group": 1
         },
         {
             "id": "Insulated Pack",
-            "svg": process.env.PUBLIC_URL + "images/icepack.jpg",
+            "svg": "images/icepack.jpg",
             "group": 1
         },
         {
             "id": "Blue Moonlens",
-            "svg": process.env.PUBLIC_URL + "images/bluemooneye.jpg",
+            "svg": "images/bluemooneye.jpg",
             "group": 1
         },
         {
             "id": "Willows Lighter",
-            "svg": process.env.PUBLIC_URL + "images/lighter.jpg",
+            "svg": "images/lighter.jpg",
             "group": 1
         },
         {
             "id": "Purple Moonlens",
-            "svg": process.env.PUBLIC_URL + "images/purplemooneye.jpg",
+            "svg": "images/purplemooneye.jpg",
             "group": 1
         },
         {
             "id": "Morning Star",
-            "svg": process.env.PUBLIC_URL + "images/nightstick.jpg",
+            "svg": "images/nightstick.jpg",
             "group": 1
         },
         {
             "id": "Bath Bomb",
-            "svg": process.env.PUBLIC_URL + "images/bathbomb.jpg",
+            "svg": "images/bathbomb.jpg",
             "group": 1
         },
         {
             "id": "Lune Tree Blossom",
-            "svg": process.env.PUBLIC_URL + "images/moontreeblossom.jpg",
+            "svg": "images/moontreeblossom.jpg",
             "group": 1
         },
         {
             "id": "Winged Sail",
-            "svg": process.env.PUBLIC_URL + "images/mastmalbatross.jpg",
+            "svg": "images/mastmalbatross.jpg",
             "group": 1
         },
         {
             "id": "Driftwood Piece",
-            "svg": process.env.PUBLIC_URL + "images/driftwoodlog.jpg",
+            "svg": "images/driftwoodlog.jpg",
             "group": 1
         },
         {
             "id": "Feathery Canvas",
-            "svg": process.env.PUBLIC_URL + "images/malbatrossfeatheredweave.jpg",
+            "svg": "images/malbatrossfeatheredweave.jpg",
             "group": 1
         },
         {
             "id": "Malbatross Feather",
-            "svg": process.env.PUBLIC_URL + "images/malbatrossfeather.jpg",
+            "svg": "images/malbatrossfeather.jpg",
             "group": 1
         },
         {
             "id": "Sunrise Spoon",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishinglurespoonred.jpg",
+            "svg": "images/oceanfishinglurespoonred.jpg",
             "group": 1
         },
         {
             "id": "Sign",
-            "svg": process.env.PUBLIC_URL + "images/homesign.jpg",
+            "svg": "images/homesign.jpg",
             "group": 1
         },
         {
             "id": "Carved Hornucopia",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecehornucopiabuilder.jpg",
+            "svg": "images/chesspiecehornucopiabuilder.jpg",
             "group": 1
         },
         {
             "id": "One-man Band",
-            "svg": process.env.PUBLIC_URL + "images/onemanband.jpg",
+            "svg": "images/onemanband.jpg",
             "group": 1
         },
         {
             "id": "Endurance Gym Kit",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratgymstaminaitem.jpg",
+            "svg": "images/yotccarratgymstaminaitem.jpg",
             "group": 1
         },
         {
             "id": "Steering Wheel",
-            "svg": process.env.PUBLIC_URL + "images/steeringwheel.jpg",
+            "svg": "images/steeringwheel.jpg",
             "group": 1
         },
         {
             "id": "Drying Rack",
-            "svg": process.env.PUBLIC_URL + "images/meatrack.jpg",
+            "svg": "images/meatrack.jpg",
             "group": 1
         },
         {
             "id": "Spectackler Box",
-            "svg": process.env.PUBLIC_URL + "images/supertacklecontainer.jpg",
+            "svg": "images/supertacklecontainer.jpg",
             "group": 1
         },
         {
             "id": "Fish Food",
-            "svg": process.env.PUBLIC_URL + "images/chum.jpg",
+            "svg": "images/chum.jpg",
             "group": 1
         },
         {
             "id": "Masonry Oven",
-            "svg": process.env.PUBLIC_URL + "images/wintersfeastoven.jpg",
+            "svg": "images/wintersfeastoven.jpg",
             "group": 1
         },
         {
             "id": "Healing Salve",
-            "svg": process.env.PUBLIC_URL + "images/healingsalve.jpg",
+            "svg": "images/healingsalve.jpg",
             "group": 1
         },
         {
             "id": "Floating Lantern",
-            "svg": process.env.PUBLIC_URL + "images/miniboatlantern.jpg",
+            "svg": "images/miniboatlantern.jpg",
             "group": 1
         },
         {
             "id": "Lantern",
-            "svg": process.env.PUBLIC_URL + "images/lantern.jpg",
+            "svg": "images/lantern.jpg",
             "group": 1
         },
         {
             "id": "Light Bulb",
-            "svg": process.env.PUBLIC_URL + "images/lightbulb.jpg",
+            "svg": "images/lightbulb.jpg",
             "group": 1
         },
         {
             "id": "Merm Head",
-            "svg": process.env.PUBLIC_URL + "images/mermhead.jpg",
+            "svg": "images/mermhead.jpg",
             "group": 1
         },
         {
             "id": "Pig Head",
-            "svg": process.env.PUBLIC_URL + "images/pighead.jpg",
+            "svg": "images/pighead.jpg",
             "group": 1
         },
         {
             "id": "Pickled Herring",
-            "svg": process.env.PUBLIC_URL + "images/wintercookingpickledherring.jpg",
+            "svg": "images/wintercookingpickledherring.jpg",
             "group": 1
         },
         {
             "id": "Salt Crystals",
-            "svg": process.env.PUBLIC_URL + "images/saltrock.jpg",
+            "svg": "images/saltrock.jpg",
             "group": 1
         },
         {
             "id": "Varg Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiececlaywargbuilder.jpg",
+            "svg": "images/chesspiececlaywargbuilder.jpg",
             "group": 1
         },
         {
             "id": "Winged Sail Kit",
-            "svg": process.env.PUBLIC_URL + "images/mastmalbatrossitem.jpg",
+            "svg": "images/mastmalbatrossitem.jpg",
             "group": 1
         },
         {
             "id": "Telltale Heart",
-            "svg": process.env.PUBLIC_URL + "images/reviver.jpg",
+            "svg": "images/reviver.jpg",
             "group": 1
         },
         {
             "id": "Bearger Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecebeargerbuilder.jpg",
+            "svg": "images/chesspiecebeargerbuilder.jpg",
             "group": 1
         },
         {
             "id": "Sleep Dart",
-            "svg": process.env.PUBLIC_URL + "images/blowdartsleep.jpg",
+            "svg": "images/blowdartsleep.jpg",
             "group": 1
         },
         {
             "id": "Carrat Figure Sketch",
-            "svg": process.env.PUBLIC_URL + "images/chesspiececarratsketch.jpg",
+            "svg": "images/chesspiececarratsketch.jpg",
             "group": 1
         },
         {
             "id": "Ocuvigil",
-            "svg": process.env.PUBLIC_URL + "images/sentryward.jpg",
+            "svg": "images/sentryward.jpg",
             "group": 1
         },
         {
             "id": "Compass",
-            "svg": process.env.PUBLIC_URL + "images/compass.jpg",
+            "svg": "images/compass.jpg",
             "group": 1
         },
         {
             "id": "Festive Tree Planter",
-            "svg": process.env.PUBLIC_URL + "images/wintertreestand.jpg",
+            "svg": "images/wintertreestand.jpg",
             "group": 1
         },
         {
             "id": "Potted Fern",
-            "svg": process.env.PUBLIC_URL + "images/pottedfern.jpg",
+            "svg": "images/pottedfern.jpg",
             "group": 1
         },
         {
             "id": "Foliage",
-            "svg": process.env.PUBLIC_URL + "images/foliage.jpg",
+            "svg": "images/foliage.jpg",
             "group": 1
         },
         {
             "id": "Endothermic Fire",
-            "svg": process.env.PUBLIC_URL + "images/coldfire.jpg",
+            "svg": "images/coldfire.jpg",
             "group": 1
         },
         {
             "id": "Basic Farm",
-            "svg": process.env.PUBLIC_URL + "images/slowfarmplot.jpg",
+            "svg": "images/slowfarmplot.jpg",
             "group": 1
         },
         {
             "id": "Psychosis Experiment",
-            "svg": process.env.PUBLIC_URL + "images/halloweenexperimentsanity.jpg",
+            "svg": "images/halloweenexperimentsanity.jpg",
             "group": 1
         },
         {
             "id": "Crow",
-            "svg": process.env.PUBLIC_URL + "images/crow.jpg",
+            "svg": "images/crow.jpg",
             "group": 1
         },
         {
             "id": "Chilled Amulet",
-            "svg": process.env.PUBLIC_URL + "images/blueamulet.jpg",
+            "svg": "images/blueamulet.jpg",
             "group": 1
         },
         {
             "id": "Bramble Trap",
-            "svg": process.env.PUBLIC_URL + "images/trapbramble.jpg",
+            "svg": "images/trapbramble.jpg",
             "group": 1
         },
         {
             "id": "Good Gravy",
-            "svg": process.env.PUBLIC_URL + "images/wintercookinggravy.jpg",
+            "svg": "images/wintercookinggravy.jpg",
             "group": 1
         },
         {
             "id": "Thermal Stone",
-            "svg": process.env.PUBLIC_URL + "images/heatrock.jpg",
+            "svg": "images/heatrock.jpg",
             "group": 1
         },
         {
             "id": "Portable Grinding Mill",
-            "svg": process.env.PUBLIC_URL + "images/portableblenderitem.jpg",
+            "svg": "images/portableblenderitem.jpg",
             "group": 1
         },
         {
             "id": "Saddle",
-            "svg": process.env.PUBLIC_URL + "images/saddlebasic.jpg",
+            "svg": "images/saddlebasic.jpg",
             "group": 1
         },
         {
             "id": "The Lazy Explorer",
-            "svg": process.env.PUBLIC_URL + "images/orangestaff.jpg",
+            "svg": "images/orangestaff.jpg",
             "group": 1
         },
         {
             "id": "Walking Cane",
-            "svg": process.env.PUBLIC_URL + "images/cane.jpg",
+            "svg": "images/cane.jpg",
             "group": 1
         },
         {
             "id": "Walrus Tusk",
-            "svg": process.env.PUBLIC_URL + "images/walrustusk.jpg",
+            "svg": "images/walrustusk.jpg",
             "group": 1
         },
         {
             "id": "Opulent Pickaxe",
-            "svg": process.env.PUBLIC_URL + "images/goldenpickaxe.jpg",
+            "svg": "images/goldenpickaxe.jpg",
             "group": 1
         },
         {
             "id": "Pumpkin Lantern",
-            "svg": process.env.PUBLIC_URL + "images/pumpkinlantern.jpg",
+            "svg": "images/pumpkinlantern.jpg",
             "group": 1
         },
         {
             "id": "Rabbit Earmuffs",
-            "svg": process.env.PUBLIC_URL + "images/earmuffshat.jpg",
+            "svg": "images/earmuffshat.jpg",
             "group": 1
         },
         {
             "id": "Hound Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiececlayhoundbuilder.jpg",
+            "svg": "images/chesspiececlayhoundbuilder.jpg",
             "group": 1
         },
         {
             "id": "Puffy Vest",
-            "svg": process.env.PUBLIC_URL + "images/trunkvestwinter.jpg",
+            "svg": "images/trunkvestwinter.jpg",
             "group": 1
         },
         {
             "id": "Winter Koalefant Trunk",
-            "svg": process.env.PUBLIC_URL + "images/trunkwinter.jpg",
+            "svg": "images/trunkwinter.jpg",
             "group": 1
         },
         {
             "id": "Nightflyer Spinnerbait",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishinglurespinnerblue.jpg",
+            "svg": "images/oceanfishinglurespinnerblue.jpg",
             "group": 1
         },
         {
             "id": "Knight Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspieceknightbuilder.jpg",
+            "svg": "images/chesspieceknightbuilder.jpg",
             "group": 1
         },
         {
             "id": "Scalemail",
-            "svg": process.env.PUBLIC_URL + "images/armordragonfly.jpg",
+            "svg": "images/armordragonfly.jpg",
             "group": 1
         },
         {
             "id": "Log Suit",
-            "svg": process.env.PUBLIC_URL + "images/armorwood.jpg",
+            "svg": "images/armorwood.jpg",
             "group": 1
         },
         {
             "id": "Dark Sword",
-            "svg": process.env.PUBLIC_URL + "images/nightsword.jpg",
+            "svg": "images/nightsword.jpg",
             "group": 1
         },
         {
             "id": "Thulecite Wall",
-            "svg": process.env.PUBLIC_URL + "images/wallruinsitem.jpg",
+            "svg": "images/wallruinsitem.jpg",
             "group": 1
         },
         {
             "id": "Honey Poultice",
-            "svg": process.env.PUBLIC_URL + "images/bandage.jpg",
+            "svg": "images/bandage.jpg",
             "group": 1
         },
         {
             "id": "Hay Wall",
-            "svg": process.env.PUBLIC_URL + "images/wallhayitem.jpg",
+            "svg": "images/wallhayitem.jpg",
             "group": 1
         },
         {
             "id": "Lightning Rod",
-            "svg": process.env.PUBLIC_URL + "images/lightningrod.jpg",
+            "svg": "images/lightningrod.jpg",
             "group": 1
         },
         {
             "id": "Cookie Cutter Cap",
-            "svg": process.env.PUBLIC_URL + "images/cookiecutterhat.jpg",
+            "svg": "images/cookiecutterhat.jpg",
             "group": 1
         },
         {
             "id": "Carrat Scale Kit",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratscaleitem.jpg",
+            "svg": "images/yotccarratscaleitem.jpg",
             "group": 1
         },
         {
             "id": "Nightflyer Spoon",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishinglurespoonblue.jpg",
+            "svg": "images/oceanfishinglurespoonblue.jpg",
             "group": 1
         },
         {
             "id": "Gobbler Shrine",
-            "svg": process.env.PUBLIC_URL + "images/perdshrine.jpg",
+            "svg": "images/perdshrine.jpg",
             "group": 1
         },
         {
             "id": "Tribute Roast",
-            "svg": process.env.PUBLIC_URL + "images/yotpfood1.jpg",
+            "svg": "images/yotpfood1.jpg",
             "group": 1
         },
         {
             "id": "Dusky Spoon",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishinglurespoongreen.jpg",
+            "svg": "images/oceanfishinglurespoongreen.jpg",
             "group": 1
         },
         {
             "id": "Green Cap",
-            "svg": process.env.PUBLIC_URL + "images/greencap.jpg",
+            "svg": "images/greencap.jpg",
             "group": 1
         },
         {
             "id": "Mushroom Planter",
-            "svg": process.env.PUBLIC_URL + "images/mushroomfarm.jpg",
+            "svg": "images/mushroomfarm.jpg",
             "group": 1
         },
         {
             "id": "Distilled Vengeance",
-            "svg": process.env.PUBLIC_URL + "images/ghostlyelixirretaliation.jpg",
+            "svg": "images/ghostlyelixirretaliation.jpg",
             "group": 1
         },
         {
             "id": "Mast",
-            "svg": process.env.PUBLIC_URL + "images/mast.jpg",
+            "svg": "images/mast.jpg",
             "group": 1
         },
         {
             "id": "Moon Glass Axe",
-            "svg": process.env.PUBLIC_URL + "images/moonglassaxe.jpg",
+            "svg": "images/moonglassaxe.jpg",
             "group": 1
         },
         {
             "id": "Moon Shard",
-            "svg": process.env.PUBLIC_URL + "images/moonglass.jpg",
+            "svg": "images/moonglass.jpg",
             "group": 1
         },
         {
             "id": "Potters Wheel",
-            "svg": process.env.PUBLIC_URL + "images/sculptingtable.jpg",
+            "svg": "images/sculptingtable.jpg",
             "group": 1
         },
         {
             "id": "Driftwood Oar",
-            "svg": process.env.PUBLIC_URL + "images/oardriftwood.jpg",
+            "svg": "images/oardriftwood.jpg",
             "group": 1
         },
         {
             "id": "Malbatross Quill Float",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishingbobbermalbatross.jpg",
+            "svg": "images/oceanfishingbobbermalbatross.jpg",
             "group": 1
         },
         {
             "id": "Revenant Restorative",
-            "svg": process.env.PUBLIC_URL + "images/ghostlyelixirslowregen.jpg",
+            "svg": "images/ghostlyelixirslowregen.jpg",
             "group": 1
         },
         {
             "id": "Desert Goggles",
-            "svg": process.env.PUBLIC_URL + "images/deserthat.jpg",
+            "svg": "images/deserthat.jpg",
             "group": 1
         },
         {
             "id": "Fashion Goggles",
-            "svg": process.env.PUBLIC_URL + "images/goggleshat.jpg",
+            "svg": "images/goggleshat.jpg",
             "group": 1
         },
         {
             "id": "Ice Cube",
-            "svg": process.env.PUBLIC_URL + "images/icehat.jpg",
+            "svg": "images/icehat.jpg",
             "group": 1
         },
         {
             "id": "Down Quill Float",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishingbobbergoose.jpg",
+            "svg": "images/oceanfishingbobbergoose.jpg",
             "group": 1
         },
         {
             "id": "Moon Dial",
-            "svg": process.env.PUBLIC_URL + "images/moondial.jpg",
+            "svg": "images/moondial.jpg",
             "group": 1
         },
         {
             "id": "Saffron Quill Float",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishingbobbercanary.jpg",
+            "svg": "images/oceanfishingbobbercanary.jpg",
             "group": 1
         },
         {
             "id": "Saffron Feather",
-            "svg": process.env.PUBLIC_URL + "images/feathercanary.jpg",
+            "svg": "images/feathercanary.jpg",
             "group": 1
         },
         {
             "id": "Telelocator Focus",
-            "svg": process.env.PUBLIC_URL + "images/telebase.jpg",
+            "svg": "images/telebase.jpg",
             "group": 1
         },
         {
             "id": "Shadow Logger",
-            "svg": process.env.PUBLIC_URL + "images/shadowlumberbuilder.jpg",
+            "svg": "images/shadowlumberbuilder.jpg",
             "group": 1
         },
         {
             "id": "Axe",
-            "svg": process.env.PUBLIC_URL + "images/axe.jpg",
+            "svg": "images/axe.jpg",
             "group": 1
         },
         {
             "id": "Azure Quill Float",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishingbobberrobinwinter.jpg",
+            "svg": "images/oceanfishingbobberrobinwinter.jpg",
             "group": 1
         },
         {
             "id": "Nightmare Amulet",
-            "svg": process.env.PUBLIC_URL + "images/purpleamulet.jpg",
+            "svg": "images/purpleamulet.jpg",
             "group": 1
         },
         {
             "id": "Battle Spear",
-            "svg": process.env.PUBLIC_URL + "images/spearwathgrithr.jpg",
+            "svg": "images/spearwathgrithr.jpg",
             "group": 1
         },
         {
             "id": "Rabbit Hutch",
-            "svg": process.env.PUBLIC_URL + "images/rabbithouse.jpg",
+            "svg": "images/rabbithouse.jpg",
             "group": 1
         },
         {
             "id": "Carrot",
-            "svg": process.env.PUBLIC_URL + "images/carrot.jpg",
+            "svg": "images/carrot.jpg",
             "group": 1
         },
         {
             "id": "Bunny Puff",
-            "svg": process.env.PUBLIC_URL + "images/manrabbittail.jpg",
+            "svg": "images/manrabbittail.jpg",
             "group": 1
         },
         {
             "id": "Shadow Duelist",
-            "svg": process.env.PUBLIC_URL + "images/shadowduelistbuilder.jpg",
+            "svg": "images/shadowduelistbuilder.jpg",
             "group": 1
         },
         {
             "id": "Ice Staff",
-            "svg": process.env.PUBLIC_URL + "images/icestaff.jpg",
+            "svg": "images/icestaff.jpg",
             "group": 1
         },
         {
             "id": "Shadow Manipulator",
-            "svg": process.env.PUBLIC_URL + "images/researchlab3.jpg",
+            "svg": "images/researchlab3.jpg",
             "group": 1
         },
         {
             "id": "Merm Flort-ifications",
-            "svg": process.env.PUBLIC_URL + "images/mermwatchtower.jpg",
+            "svg": "images/mermwatchtower.jpg",
             "group": 1
         },
         {
             "id": "Premium Seed Packet",
-            "svg": process.env.PUBLIC_URL + "images/yotcseedpacketrare.jpg",
+            "svg": "images/yotcseedpacketrare.jpg",
             "group": 1
         },
         {
             "id": "Crimson Quill Float",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishingbobberrobin.jpg",
+            "svg": "images/oceanfishingbobberrobin.jpg",
             "group": 1
         },
         {
             "id": "Crimson Feather",
-            "svg": process.env.PUBLIC_URL + "images/featherrobin.jpg",
+            "svg": "images/featherrobin.jpg",
             "group": 1
         },
         {
             "id": "Sulfuric Experiment",
-            "svg": process.env.PUBLIC_URL + "images/halloweenexperimentvolatile.jpg",
+            "svg": "images/halloweenexperimentvolatile.jpg",
             "group": 1
         },
         {
             "id": "Trusty Slingshot",
-            "svg": process.env.PUBLIC_URL + "images/slingshot.jpg",
+            "svg": "images/slingshot.jpg",
             "group": 1
         },
         {
             "id": "Navigation Gym",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratgymdirection.jpg",
+            "svg": "images/yotccarratgymdirection.jpg",
             "group": 1
         },
         {
             "id": "Breezy Vest",
-            "svg": process.env.PUBLIC_URL + "images/trunkvestsummer.jpg",
+            "svg": "images/trunkvestsummer.jpg",
             "group": 1
         },
         {
             "id": "Koalefant Trunk",
-            "svg": process.env.PUBLIC_URL + "images/trunksummer.jpg",
+            "svg": "images/trunksummer.jpg",
             "group": 1
         },
         {
             "id": "Hardened Slip Bobber",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishingbobberoval.jpg",
+            "svg": "images/oceanfishingbobberoval.jpg",
             "group": 1
         },
         {
             "id": "Seasoning Salt",
-            "svg": process.env.PUBLIC_URL + "images/spicesalt.jpg",
+            "svg": "images/spicesalt.jpg",
             "group": 1
         },
         {
             "id": "Phobic Experiment",
-            "svg": process.env.PUBLIC_URL + "images/halloweenexperimentbravery.jpg",
+            "svg": "images/halloweenexperimentbravery.jpg",
             "group": 1
         },
         {
             "id": "Frog Legs",
-            "svg": process.env.PUBLIC_URL + "images/froglegs.jpg",
+            "svg": "images/froglegs.jpg",
             "group": 1
         },
         {
             "id": "Wardrobe",
-            "svg": process.env.PUBLIC_URL + "images/wardrobe.jpg",
+            "svg": "images/wardrobe.jpg",
             "group": 1
         },
         {
             "id": "Garlic Powder",
-            "svg": process.env.PUBLIC_URL + "images/spicegarlic.jpg",
+            "svg": "images/spicegarlic.jpg",
             "group": 1
         },
         {
             "id": "Garlic",
-            "svg": process.env.PUBLIC_URL + "images/garlic.jpg",
+            "svg": "images/garlic.jpg",
             "group": 1
         },
         {
             "id": "Tamales",
-            "svg": process.env.PUBLIC_URL + "images/wintercookingtamales.jpg",
+            "svg": "images/wintercookingtamales.jpg",
             "group": 1
         },
         {
             "id": "Sweet Potato Casserole",
-            "svg": process.env.PUBLIC_URL + "images/wintercookingsweetpotato.jpg",
+            "svg": "images/wintercookingsweetpotato.jpg",
             "group": 1
         },
         {
             "id": "Clay Varg Figure Sketch",
-            "svg": process.env.PUBLIC_URL + "images/chesspiececlaywargsketch.jpg",
+            "svg": "images/chesspiececlaywargsketch.jpg",
             "group": 1
         },
         {
             "id": "Roasted Turkey",
-            "svg": process.env.PUBLIC_URL + "images/wintercookingroastturkey.jpg",
+            "svg": "images/wintercookingroastturkey.jpg",
             "group": 1
         },
         {
             "id": "Gift Wrap",
-            "svg": process.env.PUBLIC_URL + "images/giftwrap.jpg",
+            "svg": "images/giftwrap.jpg",
             "group": 1
         },
         {
             "id": "Hound Figure Sketch",
-            "svg": process.env.PUBLIC_URL + "images/chesspiececlayhoundsketch.jpg",
+            "svg": "images/chesspiececlayhoundsketch.jpg",
             "group": 1
         },
         {
             "id": "Polish Cookies",
-            "svg": process.env.PUBLIC_URL + "images/wintercookingpolishcookie.jpg",
+            "svg": "images/wintercookingpolishcookie.jpg",
             "group": 1
         },
         {
             "id": "Butterfly Wings",
-            "svg": process.env.PUBLIC_URL + "images/butterflywings.jpg",
+            "svg": "images/butterflywings.jpg",
             "group": 1
         },
         {
             "id": "Electric Dart",
-            "svg": process.env.PUBLIC_URL + "images/blowdartyellow.jpg",
+            "svg": "images/blowdartyellow.jpg",
             "group": 1
         },
         {
             "id": "Pavlova",
-            "svg": process.env.PUBLIC_URL + "images/wintercookingpavlova.jpg",
+            "svg": "images/wintercookingpavlova.jpg",
             "group": 1
         },
         {
             "id": "Belt of Hunger",
-            "svg": process.env.PUBLIC_URL + "images/armorslurper.jpg",
+            "svg": "images/armorslurper.jpg",
             "group": 1
         },
         {
             "id": "Slurper Pelt",
-            "svg": process.env.PUBLIC_URL + "images/slurperpelt.jpg",
+            "svg": "images/slurperpelt.jpg",
             "group": 1
         },
         {
             "id": "Panettone",
-            "svg": process.env.PUBLIC_URL + "images/wintercookingpanettone.jpg",
+            "svg": "images/wintercookingpanettone.jpg",
             "group": 1
         },
         {
             "id": "Stone Fruit",
-            "svg": process.env.PUBLIC_URL + "images/rockavocadofruit.jpg",
+            "svg": "images/rockavocadofruit.jpg",
             "group": 1
         },
         {
             "id": "Dusky Spinnerbait",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishinglurespinnergreen.jpg",
+            "svg": "images/oceanfishinglurespinnergreen.jpg",
             "group": 1
         },
         {
             "id": "Lutefisk",
-            "svg": process.env.PUBLIC_URL + "images/wintercookinglutefisk.jpg",
+            "svg": "images/wintercookinglutefisk.jpg",
             "group": 1
         },
         {
             "id": "Spoiled Fish",
-            "svg": process.env.PUBLIC_URL + "images/spoiledfish.jpg",
+            "svg": "images/spoiledfish.jpg",
             "group": 1
         },
         {
             "id": "Latkes",
-            "svg": process.env.PUBLIC_URL + "images/wintercookinglatkes.jpg",
+            "svg": "images/wintercookinglatkes.jpg",
             "group": 1
         },
         {
             "id": "Checkered Flooring",
-            "svg": process.env.PUBLIC_URL + "images/turfcheckerfloor.jpg",
+            "svg": "images/turfcheckerfloor.jpg",
             "group": 1
         },
         {
             "id": "Festive Fish Dish",
-            "svg": process.env.PUBLIC_URL + "images/wintercookingfestivefish.jpg",
+            "svg": "images/wintercookingfestivefish.jpg",
             "group": 1
         },
         {
             "id": "Spoiled Fish Morsel",
-            "svg": process.env.PUBLIC_URL + "images/spoiledfishsmall.jpg",
+            "svg": "images/spoiledfishsmall.jpg",
             "group": 1
         },
         {
             "id": "Cabbage Rolls",
-            "svg": process.env.PUBLIC_URL + "images/wintercookingcabbagerolls.jpg",
+            "svg": "images/wintercookingcabbagerolls.jpg",
             "group": 1
         },
         {
             "id": "Bibingka",
-            "svg": process.env.PUBLIC_URL + "images/wintercookingbibingka.jpg",
+            "svg": "images/wintercookingbibingka.jpg",
             "group": 1
         },
         {
             "id": "Feather Hat",
-            "svg": process.env.PUBLIC_URL + "images/featherhat.jpg",
+            "svg": "images/featherhat.jpg",
             "group": 1
         },
         {
             "id": "Arboretum Experiment",
-            "svg": process.env.PUBLIC_URL + "images/halloweenexperimentroot.jpg",
+            "svg": "images/halloweenexperimentroot.jpg",
             "group": 1
         },
         {
             "id": "Batilisk Wing",
-            "svg": process.env.PUBLIC_URL + "images/batwing.jpg",
+            "svg": "images/batwing.jpg",
             "group": 1
         },
         {
             "id": "Summer Frest",
-            "svg": process.env.PUBLIC_URL + "images/reflectivevest.jpg",
+            "svg": "images/reflectivevest.jpg",
             "group": 1
         },
         {
             "id": "The Lazy Forager",
-            "svg": process.env.PUBLIC_URL + "images/orangeamulet.jpg",
+            "svg": "images/orangeamulet.jpg",
             "group": 1
         },
         {
             "id": "Bee Queen Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecebeequeenbuilder.jpg",
+            "svg": "images/chesspiecebeequeenbuilder.jpg",
             "group": 1
         },
         {
             "id": "Lunar Experiment",
-            "svg": process.env.PUBLIC_URL + "images/halloweenexperimentmoon.jpg",
+            "svg": "images/halloweenexperimentmoon.jpg",
             "group": 1
         },
         {
             "id": "Moon Moth Wings",
-            "svg": process.env.PUBLIC_URL + "images/moonbutterflywings.jpg",
+            "svg": "images/moonbutterflywings.jpg",
             "group": 1
         },
         {
             "id": "Marble Bean",
-            "svg": process.env.PUBLIC_URL + "images/marblebean.jpg",
+            "svg": "images/marblebean.jpg",
             "group": 1
         },
         {
             "id": "Carrat Shrine",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratshrine.jpg",
+            "svg": "images/yotccarratshrine.jpg",
             "group": 1
         },
         {
             "id": "Ice Box",
-            "svg": process.env.PUBLIC_URL + "images/icebox.jpg",
+            "svg": "images/icebox.jpg",
             "group": 1
         },
         {
             "id": "Giblet",
-            "svg": process.env.PUBLIC_URL + "images/critterperdlingbuilder.jpg",
+            "svg": "images/critterperdlingbuilder.jpg",
             "group": 1
         },
         {
             "id": "Trail Mix",
-            "svg": process.env.PUBLIC_URL + "images/trailmix.jpg",
+            "svg": "images/trailmix.jpg",
             "group": 1
         },
         {
             "id": "Chili Flakes",
-            "svg": process.env.PUBLIC_URL + "images/spicechili.jpg",
+            "svg": "images/spicechili.jpg",
             "group": 1
         },
         {
             "id": "Pepper",
-            "svg": process.env.PUBLIC_URL + "images/pepper.jpg",
+            "svg": "images/pepper.jpg",
             "group": 1
         },
         {
             "id": "Rook Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecerookbuilder.jpg",
+            "svg": "images/chesspiecerookbuilder.jpg",
             "group": 1
         },
         {
             "id": "\"Moon\" Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecemoonbuilder.jpg",
+            "svg": "images/chesspiecemoonbuilder.jpg",
             "group": 1
         },
         {
             "id": "Tackle Box",
-            "svg": process.env.PUBLIC_URL + "images/tacklecontainer.jpg",
+            "svg": "images/tacklecontainer.jpg",
             "group": 1
         },
         {
             "id": "Candy Bag",
-            "svg": process.env.PUBLIC_URL + "images/candybag.jpg",
+            "svg": "images/candybag.jpg",
             "group": 1
         },
         {
             "id": "Fish Scale-O-Matic",
-            "svg": process.env.PUBLIC_URL + "images/trophyscalefish.jpg",
+            "svg": "images/trophyscalefish.jpg",
             "group": 1
         },
         {
             "id": "Clever Disguise",
-            "svg": process.env.PUBLIC_URL + "images/mermhat.jpg",
+            "svg": "images/mermhat.jpg",
             "group": 1
         },
         {
             "id": "Glass Cutter",
-            "svg": process.env.PUBLIC_URL + "images/glasscutter.jpg",
+            "svg": "images/glasscutter.jpg",
             "group": 1
         },
         {
             "id": "Eight Treasure Mud Pie",
-            "svg": process.env.PUBLIC_URL + "images/yotpfood2.jpg",
+            "svg": "images/yotpfood2.jpg",
             "group": 1
         },
         {
             "id": "Reflex Gym",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratgymreaction.jpg",
+            "svg": "images/yotccarratgymreaction.jpg",
             "group": 1
         },
         {
             "id": "Stuffing",
-            "svg": process.env.PUBLIC_URL + "images/wintercookingstuffing.jpg",
+            "svg": "images/wintercookingstuffing.jpg",
             "group": 1
         },
         {
             "id": "Beard Hair",
-            "svg": process.env.PUBLIC_URL + "images/beardhair.jpg",
+            "svg": "images/beardhair.jpg",
             "group": 1
         },
         {
             "id": "Pumpkin Pie",
-            "svg": process.env.PUBLIC_URL + "images/wintercookingpumpkinpie.jpg",
+            "svg": "images/wintercookingpumpkinpie.jpg",
             "group": 1
         },
         {
             "id": "Phlegm",
-            "svg": process.env.PUBLIC_URL + "images/phlegm.jpg",
+            "svg": "images/phlegm.jpg",
             "group": 1
         },
         {
             "id": "Lucky Fan",
-            "svg": process.env.PUBLIC_URL + "images/perdfan.jpg",
+            "svg": "images/perdfan.jpg",
             "group": 1
         },
         {
             "id": "Replica Relic Chair",
-            "svg": process.env.PUBLIC_URL + "images/ruinsrelicchair.jpg",
+            "svg": "images/ruinsrelicchair.jpg",
             "group": 1
         },
         {
             "id": "Seawreath",
-            "svg": process.env.PUBLIC_URL + "images/kelphat.jpg",
+            "svg": "images/kelphat.jpg",
             "group": 1
         },
         {
             "id": "Sunrise Spinnerbait",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishinglurespinnerred.jpg",
+            "svg": "images/oceanfishinglurespinnerred.jpg",
             "group": 1
         },
         {
             "id": "Speed Gym Kit",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratgymspeeditem.jpg",
+            "svg": "images/yotccarratgymspeeditem.jpg",
             "group": 1
         },
         {
             "id": "Checkpoint Kit",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratracecheckpointitem.jpg",
+            "svg": "images/yotccarratracecheckpointitem.jpg",
             "group": 1
         },
         {
             "id": "Finish Line Kit",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratracefinishitem.jpg",
+            "svg": "images/yotccarratracefinishitem.jpg",
             "group": 1
         },
         {
             "id": "Flare",
-            "svg": process.env.PUBLIC_URL + "images/miniflare.jpg",
+            "svg": "images/miniflare.jpg",
             "group": 1
         },
         {
             "id": "Starting Point Kit",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratracestartitem.jpg",
+            "svg": "images/yotccarratracestartitem.jpg",
             "group": 1
         },
         {
             "id": "Mothling",
-            "svg": process.env.PUBLIC_URL + "images/critterlunarmothlingbuilder.jpg",
+            "svg": "images/critterlunarmothlingbuilder.jpg",
             "group": 1
         },
         {
             "id": "Moon Moth",
-            "svg": process.env.PUBLIC_URL + "images/moonbutterfly.jpg",
+            "svg": "images/moonbutterfly.jpg",
             "group": 1
         },
         {
             "id": "Flower Salad",
-            "svg": process.env.PUBLIC_URL + "images/flowersalad.jpg",
+            "svg": "images/flowersalad.jpg",
             "group": 1
         },
         {
             "id": "Tin Fishin Bin",
-            "svg": process.env.PUBLIC_URL + "images/fishbox.jpg",
+            "svg": "images/fishbox.jpg",
             "group": 1
         },
         {
             "id": "Glomglom",
-            "svg": process.env.PUBLIC_URL + "images/critterglomlingbuilder.jpg",
+            "svg": "images/critterglomlingbuilder.jpg",
             "group": 1
         },
         {
             "id": "Glommers Goop",
-            "svg": process.env.PUBLIC_URL + "images/glommerfuel.jpg",
+            "svg": "images/glommerfuel.jpg",
             "group": 1
         },
         {
             "id": "Taffy",
-            "svg": process.env.PUBLIC_URL + "images/taffy.jpg",
+            "svg": "images/taffy.jpg",
             "group": 1
         },
         {
             "id": "Lucky Beast Body",
-            "svg": process.env.PUBLIC_URL + "images/dragonbodyhat.jpg",
+            "svg": "images/dragonbodyhat.jpg",
             "group": 1
         },
         {
             "id": "Marsh Turf",
-            "svg": process.env.PUBLIC_URL + "images/turfmarsh.jpg",
+            "svg": "images/turfmarsh.jpg",
             "group": 1
         },
         {
             "id": "Vargling",
-            "svg": process.env.PUBLIC_URL + "images/critterpuppybuilder.jpg",
+            "svg": "images/critterpuppybuilder.jpg",
             "group": 1
         },
         {
             "id": "Monster Lasagna",
-            "svg": process.env.PUBLIC_URL + "images/monsterlasagna.jpg",
+            "svg": "images/monsterlasagna.jpg",
             "group": 1
         },
         {
             "id": "Antlion Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspieceantlionbuilder.jpg",
+            "svg": "images/chesspieceantlionbuilder.jpg",
             "group": 1
         },
         {
             "id": "Wooden Flooring",
-            "svg": process.env.PUBLIC_URL + "images/turfwoodfloor.jpg",
+            "svg": "images/turfwoodfloor.jpg",
             "group": 1
         },
         {
             "id": "Moon Moth Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecebutterflybuilder.jpg",
+            "svg": "images/chesspiecebutterflybuilder.jpg",
             "group": 1
         },
         {
             "id": "Kittykit",
-            "svg": process.env.PUBLIC_URL + "images/critterkittenbuilder.jpg",
+            "svg": "images/critterkittenbuilder.jpg",
             "group": 1
         },
         {
             "id": "Fishsticks",
-            "svg": process.env.PUBLIC_URL + "images/fishsticks.jpg",
+            "svg": "images/fishsticks.jpg",
             "group": 1
         },
         {
             "id": "Magiluminescence",
-            "svg": process.env.PUBLIC_URL + "images/yellowamulet.jpg",
+            "svg": "images/yellowamulet.jpg",
             "group": 1
         },
         {
             "id": "Ancient Fuelweaver Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecestalkerbuilder.jpg",
+            "svg": "images/chesspiecestalkerbuilder.jpg",
             "group": 1
         },
         {
             "id": "Floral Shirt",
-            "svg": process.env.PUBLIC_URL + "images/hawaiianshirt.jpg",
+            "svg": "images/hawaiianshirt.jpg",
             "group": 1
         },
         {
             "id": "Cactus Flower",
-            "svg": process.env.PUBLIC_URL + "images/cactusflower.jpg",
+            "svg": "images/cactusflower.jpg",
             "group": 1
         },
         {
             "id": "Stupefying Lure",
-            "svg": process.env.PUBLIC_URL + "images/oceanfishinglurehermitdrowsy.jpg",
+            "svg": "images/oceanfishinglurehermitdrowsy.jpg",
             "group": 1
         },
         {
             "id": "Unyielding Draught",
-            "svg": process.env.PUBLIC_URL + "images/ghostlyelixirshield.jpg",
+            "svg": "images/ghostlyelixirshield.jpg",
             "group": 1
         },
         {
             "id": "Crab King Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiececrabkingbuilder.jpg",
+            "svg": "images/chesspiececrabkingbuilder.jpg",
             "group": 1
         },
         {
             "id": "Malbatross Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecemalbatrossbuilder.jpg",
+            "svg": "images/chesspiecemalbatrossbuilder.jpg",
             "group": 1
         },
         {
             "id": "Ice Flingomatic",
-            "svg": process.env.PUBLIC_URL + "images/firesuppressor.jpg",
+            "svg": "images/firesuppressor.jpg",
             "group": 1
         },
         {
             "id": "Saddlehorn",
-            "svg": process.env.PUBLIC_URL + "images/saddlehorn.jpg",
+            "svg": "images/saddlehorn.jpg",
             "group": 1
         },
         {
             "id": "Meat Effigy",
-            "svg": process.env.PUBLIC_URL + "images/resurrectionstatue.jpg",
+            "svg": "images/resurrectionstatue.jpg",
             "group": 1
         },
         {
             "id": "Applied Horticulture",
-            "svg": process.env.PUBLIC_URL + "images/bookgardening.jpg",
+            "svg": "images/bookgardening.jpg",
             "group": 1
         },
         {
             "id": "Dragonfly Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecedragonflybuilder.jpg",
+            "svg": "images/chesspiecedragonflybuilder.jpg",
             "group": 1
         },
         {
             "id": "Moose/Goose Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecemoosegoosebuilder.jpg",
+            "svg": "images/chesspiecemoosegoosebuilder.jpg",
             "group": 1
         },
         {
             "id": "Tent Roll",
-            "svg": process.env.PUBLIC_URL + "images/portabletentitem.jpg",
+            "svg": "images/portabletentitem.jpg",
             "group": 1
         },
         {
             "id": "Mast Kit",
-            "svg": process.env.PUBLIC_URL + "images/mastitem.jpg",
+            "svg": "images/mastitem.jpg",
             "group": 1
         },
         {
             "id": "Kingly Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspieceformalbuilder.jpg",
+            "svg": "images/chesspieceformalbuilder.jpg",
             "group": 1
         },
         {
             "id": "Bishop Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecebishopbuilder.jpg",
+            "svg": "images/chesspiecebishopbuilder.jpg",
             "group": 1
         },
         {
             "id": "Mulled Punch",
-            "svg": process.env.PUBLIC_URL + "images/wintercookingmulleddrink.jpg",
+            "svg": "images/wintercookingmulleddrink.jpg",
             "group": 1
         },
         {
             "id": "Shadow Digger",
-            "svg": process.env.PUBLIC_URL + "images/shadowdiggerbuilder.jpg",
+            "svg": "images/shadowdiggerbuilder.jpg",
             "group": 1
         },
         {
             "id": "Shovel",
-            "svg": process.env.PUBLIC_URL + "images/shovel.jpg",
+            "svg": "images/shovel.jpg",
             "group": 1
         },
         {
             "id": "Ewelet",
-            "svg": process.env.PUBLIC_URL + "images/critterlambbuilder.jpg",
+            "svg": "images/critterlambbuilder.jpg",
             "group": 1
         },
         {
             "id": "Guacamole",
-            "svg": process.env.PUBLIC_URL + "images/guacamole.jpg",
+            "svg": "images/guacamole.jpg",
             "group": 1
         },
         {
             "id": "Poop Pellets",
-            "svg": process.env.PUBLIC_URL + "images/slingshotammopoop.jpg",
+            "svg": "images/slingshotammopoop.jpg",
             "group": 1
         },
         {
             "id": "Anchor Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspieceanchorbuilder.jpg",
+            "svg": "images/chesspieceanchorbuilder.jpg",
             "group": 1
         },
         {
             "id": "Steering Wheel Kit",
-            "svg": process.env.PUBLIC_URL + "images/steeringwheelitem.jpg",
+            "svg": "images/steeringwheelitem.jpg",
             "group": 1
         },
         {
             "id": "Winter Hat",
-            "svg": process.env.PUBLIC_URL + "images/winterhat.jpg",
+            "svg": "images/winterhat.jpg",
             "group": 1
         },
         {
             "id": "Wood Fence",
-            "svg": process.env.PUBLIC_URL + "images/fenceitem.jpg",
+            "svg": "images/fenceitem.jpg",
             "group": 1
         },
         {
             "id": "Map Scroll",
-            "svg": process.env.PUBLIC_URL + "images/mapscroll.jpg",
+            "svg": "images/mapscroll.jpg",
             "group": 1
         },
         {
             "id": "Feather Pencil",
-            "svg": process.env.PUBLIC_URL + "images/featherpencil.jpg",
+            "svg": "images/featherpencil.jpg",
             "group": 1
         },
         {
             "id": "Freeze Rounds",
-            "svg": process.env.PUBLIC_URL + "images/slingshotammofreeze.jpg",
+            "svg": "images/slingshotammofreeze.jpg",
             "group": 1
         },
         {
             "id": "Mushlight",
-            "svg": process.env.PUBLIC_URL + "images/mushroomlight.jpg",
+            "svg": "images/mushroomlight.jpg",
             "group": 1
         },
         {
             "id": "Pawn Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecepawnbuilder.jpg",
+            "svg": "images/chesspiecepawnbuilder.jpg",
             "group": 1
         },
         {
             "id": "Night Armor",
-            "svg": process.env.PUBLIC_URL + "images/armorsanity.jpg",
+            "svg": "images/armorsanity.jpg",
             "group": 1
         },
         {
             "id": "Moon Moth Figure Sketch",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecebutterflysketch.jpg",
+            "svg": "images/chesspiecebutterflysketch.jpg",
             "group": 1
         },
         {
             "id": "Bug Net",
-            "svg": process.env.PUBLIC_URL + "images/bugnet.jpg",
+            "svg": "images/bugnet.jpg",
             "group": 1
         },
         {
             "id": "Fire Dart",
-            "svg": process.env.PUBLIC_URL + "images/blowdartfire.jpg",
+            "svg": "images/blowdartfire.jpg",
             "group": 1
         },
         {
             "id": "Cartographers Desk",
-            "svg": process.env.PUBLIC_URL + "images/cartographydesk.jpg",
+            "svg": "images/cartographydesk.jpg",
             "group": 1
         },
         {
             "id": "Marbles",
-            "svg": process.env.PUBLIC_URL + "images/slingshotammomarble.jpg",
+            "svg": "images/slingshotammomarble.jpg",
             "group": 1
         },
         {
             "id": "Gold Rounds",
-            "svg": process.env.PUBLIC_URL + "images/slingshotammogold.jpg",
+            "svg": "images/slingshotammogold.jpg",
             "group": 1
         },
         {
             "id": "Pebbles",
-            "svg": process.env.PUBLIC_URL + "images/slingshotammorock.jpg",
+            "svg": "images/slingshotammorock.jpg",
             "group": 1
         },
         {
             "id": "Bramble Husk",
-            "svg": process.env.PUBLIC_URL + "images/armorbramble.jpg",
+            "svg": "images/armorbramble.jpg",
             "group": 1
         },
         {
             "id": "Cat Cap",
-            "svg": process.env.PUBLIC_URL + "images/catcoonhat.jpg",
+            "svg": "images/catcoonhat.jpg",
             "group": 1
         },
         {
             "id": "Endurance Gym",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratgymstamina.jpg",
+            "svg": "images/yotccarratgymstamina.jpg",
             "group": 1
         },
         {
             "id": "Varg Shrine",
-            "svg": process.env.PUBLIC_URL + "images/wargshrine.jpg",
+            "svg": "images/wargshrine.jpg",
             "group": 1
         },
         {
             "id": "Nightshade Nostrum",
-            "svg": process.env.PUBLIC_URL + "images/ghostlyelixirattack.jpg",
+            "svg": "images/ghostlyelixirattack.jpg",
             "group": 1
         },
         {
             "id": "Spectral Cure-All",
-            "svg": process.env.PUBLIC_URL + "images/ghostlyelixirfastregen.jpg",
+            "svg": "images/ghostlyelixirfastregen.jpg",
             "group": 1
         },
         {
             "id": "Winonas Generator",
-            "svg": process.env.PUBLIC_URL + "images/winonabatterylow.jpg",
+            "svg": "images/winonabatterylow.jpg",
             "group": 1
         },
         {
             "id": "Winonas Spotlight",
-            "svg": process.env.PUBLIC_URL + "images/winonaspotlight.jpg",
+            "svg": "images/winonaspotlight.jpg",
             "group": 1
         },
         {
             "id": "Carrat Scale",
-            "svg": process.env.PUBLIC_URL + "images/yotccarratscale.jpg",
+            "svg": "images/yotccarratscale.jpg",
             "group": 1
         },
         {
             "id": "Endothermic Fire Pit",
-            "svg": process.env.PUBLIC_URL + "images/coldfirepit.jpg",
+            "svg": "images/coldfirepit.jpg",
             "group": 1
         },
         {
             "id": "Salt Lick",
-            "svg": process.env.PUBLIC_URL + "images/saltlick.jpg",
+            "svg": "images/saltlick.jpg",
             "group": 1
         },
         {
             "id": "Pig House",
-            "svg": process.env.PUBLIC_URL + "images/pighouse.jpg",
+            "svg": "images/pighouse.jpg",
             "group": 1
         },
         {
             "id": "Green Funcap",
-            "svg": process.env.PUBLIC_URL + "images/greenmushroomhat.jpg",
+            "svg": "images/greenmushroomhat.jpg",
             "group": 1
         },
         {
             "id": "Bee Mine",
-            "svg": process.env.PUBLIC_URL + "images/beemine.jpg",
+            "svg": "images/beemine.jpg",
             "group": 1
         },
         {
             "id": "Bee",
-            "svg": process.env.PUBLIC_URL + "images/bee.jpg",
+            "svg": "images/bee.jpg",
             "group": 1
         },
         {
             "id": "Bat Bat",
-            "svg": process.env.PUBLIC_URL + "images/batbat.jpg",
+            "svg": "images/batbat.jpg",
             "group": 1
         },
         {
             "id": "Glossamer Saddle",
-            "svg": process.env.PUBLIC_URL + "images/saddlerace.jpg",
+            "svg": "images/saddlerace.jpg",
             "group": 1
         },
         {
             "id": "Mini Sign",
-            "svg": process.env.PUBLIC_URL + "images/minisign.jpg",
+            "svg": "images/minisign.jpg",
             "group": 1
         },
         {
             "id": "Codex Umbra",
-            "svg": process.env.PUBLIC_URL + "images/waxwelljournal.jpg",
+            "svg": "images/waxwelljournal.jpg",
             "group": 1
         },
         {
             "id": "Sanguine Experiment",
-            "svg": process.env.PUBLIC_URL + "images/halloweenexperimenthealth.jpg",
+            "svg": "images/halloweenexperimenthealth.jpg",
             "group": 1
         },
         {
             "id": "Mosquito",
-            "svg": process.env.PUBLIC_URL + "images/mosquito.jpg",
+            "svg": "images/mosquito.jpg",
             "group": 1
         },
         {
             "id": "Improved Farm",
-            "svg": process.env.PUBLIC_URL + "images/fastfarmplot.jpg",
+            "svg": "images/fastfarmplot.jpg",
             "group": 1
         },
         {
             "id": "The End is Nigh!",
-            "svg": process.env.PUBLIC_URL + "images/bookbrimstone.jpg",
+            "svg": "images/bookbrimstone.jpg",
             "group": 1
         },
         {
             "id": "Sleepytime Stories",
-            "svg": process.env.PUBLIC_URL + "images/booksleep.jpg",
+            "svg": "images/booksleep.jpg",
             "group": 1
         },
         {
             "id": "Toadstool Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecetoadstoolbuilder.jpg",
+            "svg": "images/chesspiecetoadstoolbuilder.jpg",
             "group": 1
         },
         {
             "id": "Football Helmet",
-            "svg": process.env.PUBLIC_URL + "images/footballhat.jpg",
+            "svg": "images/footballhat.jpg",
             "group": 1
         },
         {
             "id": "Razor",
-            "svg": process.env.PUBLIC_URL + "images/razor.jpg",
+            "svg": "images/razor.jpg",
             "group": 1
         },
         {
             "id": "Directional Sign",
-            "svg": process.env.PUBLIC_URL + "images/arrowsignpost.jpg",
+            "svg": "images/arrowsignpost.jpg",
             "group": 1
         },
         {
             "id": "Bernie",
-            "svg": process.env.PUBLIC_URL + "images/bernieinactive.jpg",
+            "svg": "images/bernieinactive.jpg",
             "group": 1
         },
         {
             "id": "Salt Box",
-            "svg": process.env.PUBLIC_URL + "images/saltbox.jpg",
+            "svg": "images/saltbox.jpg",
             "group": 1
         },
         {
             "id": "Campfire",
-            "svg": process.env.PUBLIC_URL + "images/campfire.jpg",
+            "svg": "images/campfire.jpg",
             "group": 1
         },
         {
             "id": "Portable Crock Pot",
-            "svg": process.env.PUBLIC_URL + "images/portablecookpotitem.jpg",
+            "svg": "images/portablecookpotitem.jpg",
             "group": 1
         },
         {
             "id": "Beekeeper Hat",
-            "svg": process.env.PUBLIC_URL + "images/beehat.jpg",
+            "svg": "images/beehat.jpg",
             "group": 1
         },
         {
             "id": "\"Moon\" Figure Sketch",
-            "svg": process.env.PUBLIC_URL + "images/chesspiecemoonsketch.jpg",
+            "svg": "images/chesspiecemoonsketch.jpg",
             "group": 1
         },
         {
             "id": "Chef Pouch",
-            "svg": process.env.PUBLIC_URL + "images/spicepack.jpg",
+            "svg": "images/spicepack.jpg",
             "group": 1
         },
         {
             "id": "Scaled Furnace",
-            "svg": process.env.PUBLIC_URL + "images/dragonflyfurnace.jpg",
+            "svg": "images/dragonflyfurnace.jpg",
             "group": 1
         },
         {
             "id": "Backpack",
-            "svg": process.env.PUBLIC_URL + "images/backpack.jpg",
+            "svg": "images/backpack.jpg",
             "group": 1
         },
         {
             "id": "Moon Crater Turf",
-            "svg": process.env.PUBLIC_URL + "images/turfmeteor.jpg",
+            "svg": "images/turfmeteor.jpg",
             "group": 1
         },
         {
             "id": "Tackle Receptacle",
-            "svg": process.env.PUBLIC_URL + "images/tacklestation.jpg",
+            "svg": "images/tacklestation.jpg",
             "group": 1
         },
         {
             "id": "Bee Box",
-            "svg": process.env.PUBLIC_URL + "images/beebox.jpg",
+            "svg": "images/beebox.jpg",
             "group": 1
         },
         {
             "id": "Fishing Rod",
-            "svg": process.env.PUBLIC_URL + "images/fishingrod.jpg",
+            "svg": "images/fishingrod.jpg",
             "group": 1
         },
         {
             "id": "Clean Sweeper",
-            "svg": process.env.PUBLIC_URL + "images/reskintool.jpg",
+            "svg": "images/reskintool.jpg",
             "group": 1
         },
         {
             "id": "Thulecite Club",
-            "svg": process.env.PUBLIC_URL + "images/ruinsbat.jpg",
+            "svg": "images/ruinsbat.jpg",
             "group": 1
         },
         {
             "id": "Regal Shovel",
-            "svg": process.env.PUBLIC_URL + "images/goldenshovel.jpg",
+            "svg": "images/goldenshovel.jpg",
             "group": 1
         },
         {
             "id": "Trap",
-            "svg": process.env.PUBLIC_URL + "images/trap.jpg",
+            "svg": "images/trap.jpg",
             "group": 1
         },
         {
             "id": "Umbrella",
-            "svg": process.env.PUBLIC_URL + "images/umbrella.jpg",
+            "svg": "images/umbrella.jpg",
             "group": 1
         },
         {
             "id": "Piggyback",
-            "svg": process.env.PUBLIC_URL + "images/piggyback.jpg",
+            "svg": "images/piggyback.jpg",
             "group": 1
         },
         {
             "id": "Brush",
-            "svg": process.env.PUBLIC_URL + "images/brush.jpg",
+            "svg": "images/brush.jpg",
             "group": 1
         },
         {
             "id": "Think Tank",
-            "svg": process.env.PUBLIC_URL + "images/seafaringprototyper.jpg",
+            "svg": "images/seafaringprototyper.jpg",
             "group": 1
         },
         {
             "id": "Fashion Melon",
-            "svg": process.env.PUBLIC_URL + "images/watermelonhat.jpg",
+            "svg": "images/watermelonhat.jpg",
             "group": 1
         },
         {
             "id": "Watermelon",
-            "svg": process.env.PUBLIC_URL + "images/watermelon.jpg",
+            "svg": "images/watermelon.jpg",
             "group": 1
         },
         {
             "id": "Eyebrella",
-            "svg": process.env.PUBLIC_URL + "images/eyebrellahat.jpg",
+            "svg": "images/eyebrellahat.jpg",
             "group": 1
         },
         {
             "id": "Pig Shrine",
-            "svg": process.env.PUBLIC_URL + "images/pigshrine.jpg",
+            "svg": "images/pigshrine.jpg",
             "group": 1
         },
         {
             "id": "Hammer",
-            "svg": process.env.PUBLIC_URL + "images/hammer.jpg",
+            "svg": "images/hammer.jpg",
             "group": 1
         },
         {
             "id": "Chest",
-            "svg": process.env.PUBLIC_URL + "images/treasurechest.jpg",
+            "svg": "images/treasurechest.jpg",
             "group": 1
         },
         {
             "id": "Pretty Parasol",
-            "svg": process.env.PUBLIC_URL + "images/grassumbrella.jpg",
+            "svg": "images/grassumbrella.jpg",
             "group": 1
         },
         {
             "id": "Rain Coat",
-            "svg": process.env.PUBLIC_URL + "images/raincoat.jpg",
+            "svg": "images/raincoat.jpg",
             "group": 1
         },
         {
             "id": "Bush Hat",
-            "svg": process.env.PUBLIC_URL + "images/bushhat.jpg",
+            "svg": "images/bushhat.jpg",
             "group": 1
         },
         {
             "id": "Berry Bush",
-            "svg": process.env.PUBLIC_URL + "images/dugberrybush.jpg",
+            "svg": "images/dugberrybush.jpg",
             "group": 1
         },
         {
             "id": "Potted Succulent",
-            "svg": process.env.PUBLIC_URL + "images/succulentpotted.jpg",
+            "svg": "images/succulentpotted.jpg",
             "group": 1
         },
         {
             "id": "Succulent",
-            "svg": process.env.PUBLIC_URL + "images/succulentpicked.jpg",
+            "svg": "images/succulentpicked.jpg",
             "group": 1
         },
         {
             "id": "Pick/Axe",
-            "svg": process.env.PUBLIC_URL + "images/multitoolaxepickaxe.jpg",
+            "svg": "images/multitoolaxepickaxe.jpg",
             "group": 1
         },
         {
             "id": "Scaled Chest",
-            "svg": process.env.PUBLIC_URL + "images/dragonflychest.jpg",
+            "svg": "images/dragonflychest.jpg",
             "group": 1
         },
         {
             "id": "Torch",
-            "svg": process.env.PUBLIC_URL + "images/torch.jpg",
+            "svg": "images/torch.jpg",
             "group": 1
         },
         {
             "id": "Ham Bat",
-            "svg": process.env.PUBLIC_URL + "images/hambat.jpg",
+            "svg": "images/hambat.jpg",
             "group": 1
         },
         {
             "id": "Meat",
-            "svg": process.env.PUBLIC_URL + "images/meat.jpg",
+            "svg": "images/meat.jpg",
             "group": 1
         },
         {
             "id": "Oar",
-            "svg": process.env.PUBLIC_URL + "images/oar.jpg",
+            "svg": "images/oar.jpg",
             "group": 1
         },
         {
             "id": "Moon Rock Wall",
-            "svg": process.env.PUBLIC_URL + "images/wallmoonrockitem.jpg",
+            "svg": "images/wallmoonrockitem.jpg",
             "group": 1
         },
         {
             "id": "Sewing Kit",
-            "svg": process.env.PUBLIC_URL + "images/sewingkit.jpg",
+            "svg": "images/sewingkit.jpg",
             "group": 1
         },
         {
             "id": "Tooth Trap",
-            "svg": process.env.PUBLIC_URL + "images/trapteeth.jpg",
+            "svg": "images/trapteeth.jpg",
             "group": 1
         },
         {
             "id": "Fur Roll",
-            "svg": process.env.PUBLIC_URL + "images/bedrollfurry.jpg",
+            "svg": "images/bedrollfurry.jpg",
             "group": 1
         },
         {
             "id": "Honey Crystals",
-            "svg": process.env.PUBLIC_URL + "images/spicesugar.jpg",
+            "svg": "images/spicesugar.jpg",
             "group": 1
         },
         {
             "id": "Science Machine",
-            "svg": process.env.PUBLIC_URL + "images/researchlab.jpg",
+            "svg": "images/researchlab.jpg",
             "group": 1
         },
         {
             "id": "Birds of the World",
-            "svg": process.env.PUBLIC_URL + "images/bookbirds.jpg",
+            "svg": "images/bookbirds.jpg",
             "group": 1
         },
         {
             "id": "Egg",
-            "svg": process.env.PUBLIC_URL + "images/birdegg.jpg",
+            "svg": "images/birdegg.jpg",
             "group": 1
         },
         {
             "id": "Night Light",
-            "svg": process.env.PUBLIC_URL + "images/nightlight.jpg",
+            "svg": "images/nightlight.jpg",
             "group": 1
         },
         {
             "id": "Stone Wall",
-            "svg": process.env.PUBLIC_URL + "images/wallstoneitem.jpg",
+            "svg": "images/wallstoneitem.jpg",
             "group": 1
         },
         {
             "id": "Winters Feast Table",
-            "svg": process.env.PUBLIC_URL + "images/tablewintersfeast.jpg",
+            "svg": "images/tablewintersfeast.jpg",
             "group": 1
         },
         {
             "id": "Portal Paraphernalia",
-            "svg": process.env.PUBLIC_URL + "images/multiplayerportalmoonrockconstrplans.jpg",
+            "svg": "images/multiplayerportalmoonrockconstrplans.jpg",
             "group": 1
         },
         {
             "id": "Thulecite Medallion",
-            "svg": process.env.PUBLIC_URL + "images/nightmaretimepiece.jpg",
+            "svg": "images/nightmaretimepiece.jpg",
             "group": 1
         },
         {
             "id": "Shell Beach Turf",
-            "svg": process.env.PUBLIC_URL + "images/turfshellbeach.jpg",
+            "svg": "images/turfshellbeach.jpg",
             "group": 1
         },
         {
             "id": "Red Moonlens",
-            "svg": process.env.PUBLIC_URL + "images/redmooneye.jpg",
+            "svg": "images/redmooneye.jpg",
             "group": 1
         },
         {
             "id": "Thermal Measurer",
-            "svg": process.env.PUBLIC_URL + "images/winterometer.jpg",
+            "svg": "images/winterometer.jpg",
             "group": 1
         },
         {
             "id": "Klaus Figure",
-            "svg": process.env.PUBLIC_URL + "images/chesspieceklausbuilder.jpg",
+            "svg": "images/chesspieceklausbuilder.jpg",
             "group": 1
         }
     ],
