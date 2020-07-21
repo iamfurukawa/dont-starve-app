@@ -33,11 +33,6 @@ const Search = ({setData}) => {
     if(!hasResults(results))
       return
 
-    results.nodes.forEach(node => {
-      node.svg = node.svg.split("/images").pop()
-      node.svg = `${process.env.PUBLIC_URL}/images/${node.svg}`
-    })
-
     setData(results)
   }
 
