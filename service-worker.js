@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dont-starve-app/precache-manifest.9322d5325d1685f06fdc80a8c0d9257a.js"
+  "/dont-starve-app/precache-manifest.8517f2e5911aa2ced762a5c846ec6ff2.js"
 );
 
 self.addEventListener('message', (event) => {
