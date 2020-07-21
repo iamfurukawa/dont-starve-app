@@ -1,8 +1,8 @@
-# Don`t Starve App
+# Don't Starve App
 
 This project is for beginning players who need a to-do list to play, and for learn reactjs.
 
-For this proposal, Don`t Starve App is an item searcher and shows relationships in a graph.
+For this proposal, Don't Starve App is an item searcher and shows relationships in a graph.
 
 After searching for the necessary items, you can add to your task list and import or export to share with your friends, as they both collect the same items in the game.
 
