@@ -1,0 +1,11 @@
+#items-graph-wrapper{
+    background-color:#EBEBEB;
+    height: 100%;
+    width: 100%;
+    grid-area: g;
+}
+
+svg {
+    width: calc(100%) !important;
+    height: calc(100%)!important;
+}

@@ -1,0 +1,24 @@
+.show {
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    width: 80px;
+    background-color: #FFBB01;
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 2px;
+
+    p {
+        margin-top: 5px;
+        color: black;
+        font-weight: 600;
+    }
+    
+    img {
+        width: 64px;
+        height: 64px;
+    }
+}
+

@@ -1,0 +1,110 @@
+.count {
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    width: 85px;
+    background-color: #FFBB01;
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 2px;
+
+    img {
+        width: 64px;
+        height: 64px;
+    }
+
+    .controls {
+        margin-top: 5px;
+        display: flex;
+        width: 70px;
+    
+        p {
+            background-color: #dddddd;
+            border-top: 1px solid black;
+            border-bottom: 1px solid black;
+            color: black;
+            font-weight: 600;
+            padding-left: 3px;
+            padding-right: 3px;
+        }
+    
+        button {
+            width: 25px;
+            height: 25px;
+            margin-right: 0px;
+        }
+    }
+}
+
+.modal {
+    margin: 0px;
+    position: absolute;
+    top: 15%;
+    left: 30%;
+    right: 30%;
+    bottom: 30%;
+    border: 1px solid rgba(0,0,0,.2);
+    background: rgb(255, 255, 255);
+    overflow: auto;
+    border-radius: .3rem;
+    outline: none;
+    padding: 0px;
+}
+
+.modalGrid {
+    display: grid;
+    grid-template-columns: 40vw;
+    grid-template-rows: 8vh 37vh 8vh;
+    grid-template-areas: "h" 
+                         "b"
+                         "f";
+    width: 100%;
+    height: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.headerModal {
+    border-bottom: 1px solid #e9ecef;
+    grid-area: h;
+
+    display: flex;
+    align-items: center;
+
+    h1 {
+        margin-left: 20px;
+    }
+}
+
+.bodyModal {
+    grid-area: b;
+    padding: 15px;
+}
+
+.footerModal {
+    border-top: 1px solid #e9ecef;
+    grid-area: f;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+    button {
+        padding: .375rem .75rem;
+        font-weight: 400;
+        margin-right: 5%;
+    }
+}
+
+.delete {
+    background-color: #bd2130;
+    color: white;
+}
+
+.items {
+    display: flex;
+    overflow-x: scroll;
+    height: 90%;
+}

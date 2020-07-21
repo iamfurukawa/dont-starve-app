@@ -1,0 +1,10 @@
+.info{
+    background-color: #3B3B3B;
+    height: 100%;
+    grid-area: i;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

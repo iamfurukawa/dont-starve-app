@@ -1,0 +1,26 @@
+.title {
+    background-color: #FFBB01;
+    border: 1px solid;
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+}
+
+.image {
+    padding: 20px;
+    width: 64px;
+    height: 64px;
+}
+
+.sectionImage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(92, 92, 92);
+
+    button {
+        width: 80px;
+        margin-bottom: 10px;
+    }
+}

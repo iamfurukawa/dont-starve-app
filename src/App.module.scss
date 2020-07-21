@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: baseline;
+    list-style: none;
+    font-family: 'Open Sans';
+}
+
+.containerMax {
+    display: grid;
+    grid-template-columns: 5vw 72vw 23vw;
+    grid-template-rows: 13vh 87vh;
+    grid-template-areas: "s s s" 
+                         "m g g";
+}
+
+.containerMin {
+    display: grid;
+    grid-template-columns: 5vw 72vw 23vw;
+    grid-template-rows: 13vh 87vh;
+    grid-template-areas: "s s s" 
+                         "m g i";
+}
+
+.graph{
+    background-color:#EBEBEB;
+    height: 100%;
+    grid-area: g;
+}

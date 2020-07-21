@@ -1,0 +1,50 @@
+.todo {
+    background-color:#EBEBEB;
+    height: 100%;
+    width: 100%;
+    grid-area: g;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    background-color:#c4c4c4;
+    overflow-y: auto;
+    width: 70%;
+}
+
+.ieButtons {
+    display: flex;
+    justify-content: flex-end;
+    button {
+        width: 100px;
+        margin-right: 10px;
+    }
+}
+
+.itemTodo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.itemCollect {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.warning {
+    color: white;
+    background-color: #bd2130;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}

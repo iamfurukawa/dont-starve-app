@@ -1,0 +1,34 @@
+.menu{
+    background-color:#3B3B3B;
+    height: 100%;
+    grid-area: m;
+}
+
+.icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin-bottom: 30%;
+    margin-top: 10%;
+    font-size: small;
+    height: 64px;
+
+    p {
+        margin-top: 5px;
+        font-size: 10pt;
+    }
+}
+
+.icon:hover, .icon:active {
+    color: #FFBB01 !important;
+}
+
+.icon:link, .icon:visited {
+    color: white;
+}
+
+.active {
+    color: #FFBB01 !important;
+}
